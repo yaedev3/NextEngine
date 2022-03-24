@@ -1,0 +1,199 @@
+[
+    {
+        "title": "Aikatsu!",
+        "type": "TV",
+        "episodes": "178",
+        "watched": "50",
+        "tags": [
+            "TD",
+            "End"
+        ]
+    },
+    {
+        "title": "Black Clover",
+        "type": "TV",
+        "episodes": "170",
+        "watched": "135",
+        "tags": [
+            "Crunchy",
+            "End"
+        ]
+    },
+    {
+        "title": "Boogiepop wa Warawanai (2019)",
+        "type": "TV",
+        "episodes": "18",
+        "watched": "2",
+        "tags": [
+            "Crunchy",
+            "End"
+        ]
+    },
+    {
+        "title": "Boruto: Naruto Next Generations",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "3",
+        "tags": [
+            "Crunchy",
+            "Airing"
+        ]
+    },
+    {
+        "title": "Darling in the FranXX",
+        "type": "TV",
+        "episodes": "24",
+        "watched": "7",
+        "tags": [
+            "Crunchy",
+            "End"
+        ]
+    },
+    {
+        "title": "Devilman: Crybaby",
+        "type": "ONA",
+        "episodes": "10",
+        "watched": "2",
+        "tags": [
+            "Netflix",
+            "End"
+        ]
+    },
+    {
+        "title": "Fate/Grand Carnival",
+        "type": "OVA",
+        "episodes": "4",
+        "watched": "1",
+        "tags": [
+            "Airing"
+        ]
+    },
+    {
+        "title": "Granbelm",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "2",
+        "tags": [
+            "Crunchy",
+            "End"
+        ]
+    },
+    {
+        "title": "Happy Sugar Life",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "6",
+        "tags": [
+            "End",
+            "Prime"
+        ]
+    },
+    {
+        "title": "Maoujou de Oyasumi",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "Funi",
+            "End"
+        ]
+    },
+    {
+        "title": "Ochikobore Fruit Tart",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "End",
+            "Funi"
+        ]
+    },
+    {
+        "title": "One Piece",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "996",
+        "tags": [
+            "Crunchy",
+            "Airing"
+        ]
+    },
+    {
+        "title": "Ore dake Haireru Kakushi Dungeon",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "Crunchy",
+            "End"
+        ]
+    },
+    {
+        "title": "Pokemon",
+        "type": "TV",
+        "episodes": "276",
+        "watched": "159",
+        "tags": [
+            "End"
+        ]
+    },
+    {
+        "title": "Saenai Heroine no Sodatekata \u266d",
+        "type": "TV",
+        "episodes": "11",
+        "watched": "4",
+        "tags": [
+            "Prime",
+            "End"
+        ]
+    },
+    {
+        "title": "Shaman King (2021)",
+        "type": "TV",
+        "episodes": "52",
+        "watched": "38",
+        "tags": [
+            "Airing",
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "2",
+        "tags": [
+            "Funi",
+            "End"
+        ]
+    },
+    {
+        "title": "Tamayomi",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "End",
+            "Funi"
+        ]
+    },
+    {
+        "title": "Wotaku ni Koi wa Muzukashii OVA",
+        "type": "OVA",
+        "episodes": "3",
+        "watched": "2",
+        "tags": [
+            "Airing"
+        ]
+    },
+    {
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "Crunchy",
+            "End"
+        ]
+    }
+]

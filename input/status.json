@@ -1,0 +1,24 @@
+{
+  "status": [
+    {
+      "status": "Watching",
+      "file": "output/watching.json"
+    },
+    {
+      "status": "Completed",
+      "file": "output/completed.json"
+    },
+    {
+      "status": "On-Hold",
+      "file": "output/onhold.json"
+    },
+    {
+      "status": "Dropped",
+      "file": "output/dropped.json"
+    },
+    {
+      "status": "Plan to Watch",
+      "file": "output/plantowatch.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "keys": [
+    {
+      "xml": "series_title",
+      "json": "title"
+    },
+    {
+      "xml": "series_type",
+      "json": "type"
+    },
+    {
+      "xml": "series_episodes",
+      "json": "episodes"
+    },
+    {
+      "xml": "my_watched_episodes",
+      "json": "watched"
+    },
+    {
+      "xml": "my_status",
+      "json": "status"
+    },
+    {
+      "xml": "my_tags",
+      "json": "tags"
+    }
+  ]
+}
