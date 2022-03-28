@@ -194,10 +194,10 @@
         "title": "Adachi to Shimamura",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "5",
         "status": "Watching",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -886,7 +886,7 @@
         "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
+        "watched": "11",
         "status": "Watching",
         "tags": [
             "Funi",
@@ -3620,7 +3620,7 @@
         "watched": "1",
         "status": "On-Hold",
         "tags": [
-            "Airing"
+            "End"
         ]
     },
     {
@@ -3937,10 +3937,10 @@
         "title": "Fruits Basket 2nd Season",
         "type": "TV",
         "episodes": "25",
-        "watched": "3",
+        "watched": "4",
         "status": "Watching",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -6632,7 +6632,7 @@
         "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
+        "watched": "11",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -7405,7 +7405,7 @@
         "title": "Koisuru Asteroid",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Crunchy",
@@ -7616,7 +7616,7 @@
         "title": "Kotarou wa Hitorigurashi",
         "type": "ONA",
         "episodes": "10",
-        "watched": "3",
+        "watched": "5",
         "status": "Watching",
         "tags": [
             "End",
@@ -8428,11 +8428,10 @@
         "title": "Majo no Tabitabi",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Funi",
-            "End"
+            ""
         ]
     },
     {
@@ -8522,7 +8521,7 @@
         "watched": "2",
         "status": "On-Hold",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -9415,7 +9414,7 @@
         "watched": "8",
         "status": "Watching",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -9697,7 +9696,7 @@
         "status": "On-Hold",
         "tags": [
             "End",
-            "Funi"
+            "Crunchy"
         ]
     },
     {
@@ -11780,11 +11779,10 @@
         "title": "Shikkakumon no Saikyou Kenja",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Crunchy",
-            "Airing"
+            ""
         ]
     },
     {
@@ -11824,7 +11822,7 @@
         "watched": "2",
         "status": "On-Hold",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -12043,10 +12041,11 @@
         "title": "Shokugeki no Souma: Gou no Sara",
         "type": "TV",
         "episodes": "13",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "4",
+        "status": "Watching",
         "tags": [
-            "Crunchy"
+            "Crunchy",
+            "End"
         ]
     },
     {
@@ -12899,7 +12898,7 @@
         "status": "On-Hold",
         "tags": [
             "End",
-            "Funi"
+            "Crunchy"
         ]
     },
     {
@@ -12965,7 +12964,7 @@
     {
         "title": "Tate no Yuusha no Nariagari Season 2",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "13",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
@@ -14390,7 +14389,7 @@
         "title": "Yami Shibai 10",
         "type": "TV",
         "episodes": "0",
-        "watched": "11",
+        "watched": "12",
         "status": "Watching",
         "tags": [
             "Crunchy",

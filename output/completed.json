@@ -5886,6 +5886,15 @@
         ]
     },
     {
+        "title": "Majo no Tabitabi",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Majo no Takkyuubin",
         "type": "Movie",
         "episodes": "1",
@@ -8239,6 +8248,15 @@
         "type": "TV",
         "episodes": "22",
         "watched": "22",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Shikkakumon no Saikyou Kenja",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
         "tags": [
             ""
         ]

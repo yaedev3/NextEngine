@@ -3,9 +3,9 @@
         "title": "Adachi to Shimamura",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "5",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -13,7 +13,7 @@
         "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
+        "watched": "11",
         "tags": [
             "Funi",
             "Airing"
@@ -63,9 +63,9 @@
         "title": "Fruits Basket 2nd Season",
         "type": "TV",
         "episodes": "25",
-        "watched": "3",
+        "watched": "4",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -83,7 +83,7 @@
         "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
+        "watched": "11",
         "tags": [
             "Airing",
             "Crunchy"
@@ -103,7 +103,7 @@
         "title": "Koisuru Asteroid",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "tags": [
             "Crunchy",
             "End"
@@ -113,20 +113,10 @@
         "title": "Kotarou wa Hitorigurashi",
         "type": "ONA",
         "episodes": "10",
-        "watched": "3",
+        "watched": "5",
         "tags": [
             "End",
             "Netflix"
-        ]
-    },
-    {
-        "title": "Majo no Tabitabi",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "11",
-        "tags": [
-            "Funi",
-            "End"
         ]
     },
     {
@@ -145,7 +135,7 @@
         "episodes": "26",
         "watched": "8",
         "tags": [
-            "Funi",
+            "Crunchy",
             "End"
         ]
     },
@@ -170,7 +160,7 @@
         ]
     },
     {
-        "title": "Shikkakumon no Saikyou Kenja",
+        "title": "Shingeki no Kyojin: The Final Season Part 2",
         "type": "TV",
         "episodes": "12",
         "watched": "11",
@@ -180,13 +170,13 @@
         ]
     },
     {
-        "title": "Shingeki no Kyojin: The Final Season Part 2",
+        "title": "Shokugeki no Souma: Gou no Sara",
         "type": "TV",
-        "episodes": "12",
-        "watched": "11",
+        "episodes": "13",
+        "watched": "4",
         "tags": [
             "Crunchy",
-            "Airing"
+            "End"
         ]
     },
     {
@@ -223,7 +213,7 @@
         "title": "Yami Shibai 10",
         "type": "TV",
         "episodes": "0",
-        "watched": "11",
+        "watched": "12",
         "tags": [
             "Crunchy",
             "Airing"
