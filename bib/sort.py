@@ -31,8 +31,8 @@ def SortByWatched(anime_list):
       anime_element[REMAINING_KEY] = episodes - watched
       anime_element[PERCENTAGE_KEY] = int((watched / episodes) * 100)
     except:
-      anime_element[REMAINING_KEY] = 9999
-      anime_element[PERCENTAGE_KEY] = 9999
+      anime_element[REMAINING_KEY] = DEFAULT_BIG_NUMBER
+      anime_element[PERCENTAGE_KEY] = DEFAULT_BIG_NUMBER
   anime_list.sort(key=lambda x: x[PERCENTAGE_KEY], reverse=True)
 
 def NewCountElement(name, count):
