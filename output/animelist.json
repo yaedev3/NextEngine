@@ -1727,6 +1727,26 @@
         ]
     },
     {
+        "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
         "type": "TV",
         "episodes": "10",
@@ -1833,7 +1853,7 @@
         "type": "TV",
         "episodes": "0",
         "watched": "3",
-        "status": "On-Hold",
+        "status": "Dropped",
         "tags": [
             "Crunchy",
             "Airing"
@@ -3576,11 +3596,10 @@
         "title": "Fantasy Bishoujo Juniku Ojisan to",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Crunchy",
-            "Airing"
+            ""
         ]
     },
     {
@@ -6588,6 +6607,16 @@
         ]
     },
     {
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
         "type": "TV",
         "episodes": "12",
@@ -7054,11 +7083,10 @@
         "title": "Kenja no Deshi wo Nanoru Kenja",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Funi",
-            "Airing"
+            ""
         ]
     },
     {
@@ -10425,11 +10453,10 @@
         "title": "Princess Connect! Re:Dive Season 2",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Crunchy",
-            "Airing"
+            ""
         ]
     },
     {
@@ -12041,11 +12068,10 @@
         "title": "Shokugeki no Souma: Gou no Sara",
         "type": "TV",
         "episodes": "13",
-        "watched": "4",
-        "status": "Watching",
+        "watched": "13",
+        "status": "Completed",
         "tags": [
-            "Crunchy",
-            "End"
+            ""
         ]
     },
     {
@@ -12535,6 +12561,16 @@
         "episodes": "12",
         "watched": "12",
         "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Spy x Family",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "status": "Plan to Watch",
         "tags": [
             ""
         ]
@@ -13145,11 +13181,10 @@
         "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Funi",
-            "Airing"
+            ""
         ]
     },
     {

@@ -2,6 +2,7 @@
 INPUT_FILE = 'xml/animelist.xml'
 OUTPUT_FILE = 'output/animelist.json'
 WATCHING_FILE = 'output/watching.json'
+COMPLETED_FILE = 'output/completed.json'
 
 # Llaves del objeto status
 STATUS_KEY = 'status'
@@ -13,3 +14,11 @@ WATCHED_KEY = 'watched'
 REMAINING_KEY = 'remaining'
 TAG_KEY = 'tags'
 TITLE_KEY = 'title'
+TYPE_KEY = 'type'
+
+# Estado de los animes
+END_KEY = 'End'
+AIRING_KEY = 'Airing'
+
+# Menu
+DEFAULT_MENU = 4

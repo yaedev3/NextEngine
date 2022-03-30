@@ -245,6 +245,24 @@
         ]
     },
     {
+        "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
         "type": "TV",
         "episodes": "10",
@@ -1085,6 +1103,15 @@
         "title": "K: Seven Stories Movie 6 - Circle Vision - Nameless Song",
         "type": "Movie",
         "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "type": "TV",
+        "episodes": "0",
         "watched": "0",
         "tags": [
             ""
@@ -2100,6 +2127,15 @@
         "watched": "0",
         "tags": [
             "Crunchy"
+        ]
+    },
+    {
+        "title": "Spy x Family",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "tags": [
+            ""
         ]
     },
     {

@@ -22,13 +22,26 @@ def PrintSortedFile(file_name, filter):
   sort.SortByWatched(anime_list)
   ui.PrintNextAnime(anime_list, filter)
 
+def CountPrintByKey(file_name, key):
+  anime_list = inputoutput.OpenJson(file_name)
+  key_object = sort.CountByKey(anime_list, key)
+  ui.PrintSimpleObject(key_object)
+
 def MenuOptions(option):
   if option == 1:
     ConvertInputFile()
-    PrintSortedFile(WATCHING_FILE, "End")
+    PrintSortedFile(WATCHING_FILE, END_KEY)
 
   if option == 2:
     ConvertInputFile()
+
+  if option == 3:
+    ConvertInputFile()
+    CountPrintByKey(COMPLETED_FILE, TYPE_KEY)
+
+  if option == 4:
+    ConvertInputFile()
+    CountPrintByKey(COMPLETED_FILE, EPISODES_KEY)
 
 def main():
   print("Welcome to this system!")
