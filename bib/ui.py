@@ -3,7 +3,7 @@ from const import *
 def PrintMenu(menu):
   for i, item in enumerate(menu, 1):
     print(f"{i}. {item}")
-  option = input(f"Selecciona una opción (default={DEFAULT_MENU}):\t")
+  option = input(f"Selecciona una opción (default = {DEFAULT_MENU}):\t")
   if option == '':
     option = DEFAULT_MENU
   return int(option)
@@ -28,11 +28,20 @@ def PrintNextAnime(anime_list, filter):
       message = GetMessageNextAnime(anime_element, i)
       i = i + 1
       print(message)
-  print()
   print(f"\tTotal: {remaining}")
-
+  print()
+  
 def PrintSimpleObject(simple_object):
+  i = 1
   for key in simple_object:
     count = simple_object[key]
-    message = f"{key}: {count}"
+    message = f"{i}. {key}: {count}"
+    i = i + 1
+    print(message)
+
+def PrintCountList(count_list):
+  for count_element in count_list:
+    name = count_element[TITLE_KEY]
+    count = count_element[COUNT_KEY]
+    message = f"{name}: {count}"
     print(message)

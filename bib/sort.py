@@ -33,13 +33,27 @@ def SortByWatched(anime_list):
       anime_element[REMAINING_KEY] = 9999
   anime_list.sort(key=lambda x: x[REMAINING_KEY])
 
-def CountByKey(anime_list, key):
+def NewCountElement(name, count):
+  new_element = {
+    TITLE_KEY: name,
+    COUNT_KEY: count
+  }
+  return new_element
+
+def CountByKey(anime_list, const_key):
   key_object = {}
   for anime_element in anime_list:
-    episodes = anime_element[key]
-    if episodes in key_object:
-      key_object[episodes] = key_object[episodes] + 1
+    key = anime_element[const_key]
+    if key in key_object:
+      key_object[key] = key_object[key] + 1
     else:
-      key_object[episodes] = 1
+      key_object[key] = 1
   key_object["Total"] = len(anime_list)
-  return key_object
+
+  key_list = []
+  for key in key_object:
+    new_element = NewCountElement(key, key_object[key])
+    key_list.append(new_element)
+
+  key_list.sort(key=lambda x: x[COUNT_KEY])
+  return key_list

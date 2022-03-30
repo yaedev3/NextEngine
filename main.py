@@ -24,8 +24,8 @@ def PrintSortedFile(file_name, filter):
 
 def CountPrintByKey(file_name, key):
   anime_list = inputoutput.OpenJson(file_name)
-  key_object = sort.CountByKey(anime_list, key)
-  ui.PrintSimpleObject(key_object)
+  count_list = sort.CountByKey(anime_list, key)
+  ui.PrintCountList(count_list)
 
 def MenuOptions(option):
   if option == 1:

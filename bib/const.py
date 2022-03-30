@@ -15,10 +15,11 @@ REMAINING_KEY = 'remaining'
 TAG_KEY = 'tags'
 TITLE_KEY = 'title'
 TYPE_KEY = 'type'
+COUNT_KEY = 'count'
 
 # Estado de los animes
 END_KEY = 'End'
 AIRING_KEY = 'Airing'
 
 # Menu
-DEFAULT_MENU = 4
+DEFAULT_MENU = 1
