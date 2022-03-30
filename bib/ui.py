@@ -13,7 +13,13 @@ def GetMessageNextAnime(anime_element, i):
   episodes = anime_element[EPISODES_KEY]
   watched = anime_element[WATCHED_KEY]
   remaining = anime_element[REMAINING_KEY]
-  return f"{i}. {title} {watched}/{episodes}\n\tRemaining: {remaining}"
+  percentage = anime_element[PERCENTAGE_KEY]
+
+  first_line = f"{i}. {title}\n\t"
+  second_line = f"{watched} of {episodes} ({percentage}%)\n\t"
+  third_line = f"Remaining: {remaining}"
+
+  return f"{first_line}{second_line}{third_line}"
 
 def GetRemaining(anime_element):
   return anime_element[REMAINING_KEY]

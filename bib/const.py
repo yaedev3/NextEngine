@@ -16,6 +16,7 @@ TAG_KEY = 'tags'
 TITLE_KEY = 'title'
 TYPE_KEY = 'type'
 COUNT_KEY = 'count'
+PERCENTAGE_KEY = 'percentage'
 
 # Estado de los animes
 END_KEY = 'End'
