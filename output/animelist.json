@@ -886,11 +886,10 @@
         "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Funi",
-            "Airing"
+            ""
         ]
     },
     {
@@ -941,6 +940,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Ashita Sekai ga Owaru toshitemo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -1175,6 +1184,16 @@
         ]
     },
     {
+        "title": "Bakemono no Ko",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
         "title": "Bakemonogatari",
         "type": "TV",
         "episodes": "15",
@@ -1338,11 +1357,10 @@
         "title": "BanG Dream! Garupa\u2606Pico Fever!",
         "type": "ONA",
         "episodes": "26",
-        "watched": "25",
-        "status": "Watching",
+        "watched": "26",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "YouTube"
+            ""
         ]
     },
     {
@@ -1723,7 +1741,8 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Netflix"
+            "Netflix",
+            "HBO"
         ]
     },
     {
@@ -1733,7 +1752,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            ""
+            "HBO"
         ]
     },
     {
@@ -1785,6 +1804,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Bokura no Nanokakan Sensou",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -2326,7 +2355,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            ""
+            "Hi"
         ]
     },
     {
@@ -3008,7 +3037,8 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Funi"
+            "Funi",
+            "Hi"
         ]
     },
     {
@@ -3118,7 +3148,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "TD"
+            "Hi"
         ]
     },
     {
@@ -3713,6 +3743,26 @@
         ]
     },
     {
+        "title": "Fate/kaleid liner Prisma\u2606Illya (Zoku-hen)",
+        "type": "Unknown",
+        "episodes": "0",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya 2wei Herz!",
+        "type": "TV",
+        "episodes": "10",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Fate/kaleid liner Prisma\u2606Illya 2wei!",
         "type": "TV",
         "episodes": "10",
@@ -3720,6 +3770,46 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya 3rei!!",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya Movie: Licht - Namae no Nai Shoujo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya Movie: Licht - Namae no Nai Shoujo Mini Anime",
+        "type": "ONA",
+        "episodes": "3",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya Movie: Sekka no Chikai",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
         ]
     },
     {
@@ -5586,6 +5676,16 @@
         ]
     },
     {
+        "title": "Hirune Hime: Shiranai Watashi no Monogatari",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
         "title": "Hitorijime My Hero",
         "type": "TV",
         "episodes": "12",
@@ -6654,7 +6754,8 @@
         "status": "Plan to Watch",
         "tags": [
             "Down",
-            "End"
+            "End",
+            "Hi"
         ]
     },
     {
@@ -6666,6 +6767,16 @@
         "tags": [
             "Airing",
             "Crunchy"
+        ]
+    },
+    {
+        "title": "Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
         ]
     },
     {
@@ -6840,6 +6951,16 @@
         ]
     },
     {
+        "title": "Kamisama no Inai Nichiyoubi: Kioku",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
         "title": "Kanamemo",
         "type": "TV",
         "episodes": "13",
@@ -6916,7 +7037,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            ""
+            "Hi"
         ]
     },
     {
@@ -7226,7 +7347,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Netflix"
+            "HBO"
         ]
     },
     {
@@ -7644,7 +7765,7 @@
         "title": "Kotarou wa Hitorigurashi",
         "type": "ONA",
         "episodes": "10",
-        "watched": "5",
+        "watched": "8",
         "status": "Watching",
         "tags": [
             "End",
@@ -7679,6 +7800,56 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai: Shin Movie",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -8223,6 +8394,36 @@
         ]
     },
     {
+        "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
+        "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
+        "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
         "title": "Magi: Sinbad no Bouken",
         "type": "OVA",
         "episodes": "5",
@@ -8570,7 +8771,8 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -8580,7 +8782,8 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -8600,7 +8803,8 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -8630,7 +8834,8 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -8661,6 +8866,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Mary to Majo no Hana",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -9789,6 +10004,296 @@
         ]
     },
     {
+        "title": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece 3D: Gekisou! Trap Coaster",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece 3D: Mugiwara Chase",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Gold",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Strong World",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Strong World Episode 0",
+        "type": "OVA",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Z",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 1",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 14: Stampede",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 4: Dead End no Bouken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 5: Norowareta Seiken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Adventure of Nebulandia",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Episode of Luffy - Hand Island no Bouken",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Glorious Island",
+        "type": "Special",
+        "episodes": "2",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Jango no Dance Carnival",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Mamore! Saigo no Dai Butai",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Romance Dawn Story",
+        "type": "OVA",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Straw Hat Theater",
+        "type": "Special",
+        "episodes": "5",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Taose! Kaizoku Ganzack",
+        "type": "OVA",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Umi no Heso no Daibouken-hen",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Yume no Soccer Ou!",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "One Punch Man",
         "type": "TV",
         "episodes": "12",
@@ -10480,6 +10985,16 @@
         ]
     },
     {
+        "title": "Princess Principal: Crown Handler Movie 1",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
         "title": "Psycho-Pass",
         "type": "TV",
         "episodes": "22",
@@ -11164,7 +11679,7 @@
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "status": "Watching",
         "tags": [
             "End",
@@ -11389,6 +11904,26 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Seitokai Yakuindomo Movie",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
+        "title": "Seitokai Yakuindomo Movie 2",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Hi"
         ]
     },
     {
@@ -11894,6 +12429,26 @@
         ]
     },
     {
+        "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
         "title": "Shingeki no Kyojin Season 2",
         "type": "TV",
         "episodes": "12",
@@ -11901,6 +12456,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -12162,7 +12727,8 @@
         "status": "Watching",
         "tags": [
             "Down",
-            "End"
+            "End",
+            "Hi"
         ]
     },
     {
@@ -13145,6 +13711,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Tenki no Ko",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -14316,7 +14892,8 @@
         "status": "Watching",
         "tags": [
             "Down",
-            "End"
+            "End",
+            "Hi"
         ]
     },
     {

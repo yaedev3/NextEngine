@@ -145,6 +145,15 @@
         ]
     },
     {
+        "title": "Ashita Sekai ga Owaru toshitemo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
         "title": "Assassins Pride",
         "type": "TV",
         "episodes": "12",
@@ -200,6 +209,15 @@
         ]
     },
     {
+        "title": "Bakemono no Ko",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
         "title": "Bakuten!!",
         "type": "TV",
         "episodes": "12",
@@ -241,7 +259,8 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            "Netflix"
+            "Netflix",
+            "HBO"
         ]
     },
     {
@@ -250,7 +269,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            ""
+            "HBO"
         ]
     },
     {
@@ -269,6 +288,15 @@
         "watched": "0",
         "tags": [
             "TD"
+        ]
+    },
+    {
+        "title": "Bokura no Nanokakan Sensou",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -385,7 +413,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            ""
+            "Hi"
         ]
     },
     {
@@ -529,7 +557,8 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "Funi"
+            "Funi",
+            "Hi"
         ]
     },
     {
@@ -538,7 +567,7 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "TD"
+            "Hi"
         ]
     },
     {
@@ -656,6 +685,60 @@
         "watched": "0",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya (Zoku-hen)",
+        "type": "Unknown",
+        "episodes": "0",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya 2wei Herz!",
+        "type": "TV",
+        "episodes": "10",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya 3rei!!",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya Movie: Licht - Namae no Nai Shoujo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya Movie: Licht - Namae no Nai Shoujo Mini Anime",
+        "type": "ONA",
+        "episodes": "3",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Fate/kaleid liner Prisma\u2606Illya Movie: Sekka no Chikai",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
         ]
     },
     {
@@ -974,6 +1057,15 @@
         ]
     },
     {
+        "title": "Hirune Hime: Shiranai Watashi no Monogatari",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
         "title": "Holo no Graffiti",
         "type": "ONA",
         "episodes": "0",
@@ -1133,7 +1225,17 @@
         "watched": "1",
         "tags": [
             "Down",
-            "End"
+            "End",
+            "Hi"
+        ]
+    },
+    {
+        "title": "Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
         ]
     },
     {
@@ -1165,6 +1267,15 @@
         ]
     },
     {
+        "title": "Kamisama no Inai Nichiyoubi: Kioku",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
         "title": "Karakai Jouzu no Takagi-san",
         "type": "TV",
         "episodes": "12",
@@ -1188,7 +1299,7 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            ""
+            "Hi"
         ]
     },
     {
@@ -1242,7 +1353,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            "Netflix"
+            "HBO"
         ]
     },
     {
@@ -1306,6 +1417,51 @@
         "watched": "0",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Koukaku Kidoutai: Shin Movie",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -1427,6 +1583,33 @@
         ]
     },
     {
+        "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
+        "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
+        "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
         "title": "Magia Record: Mahou Shoujo Madoka\u2606Magica Gaiden (TV)",
         "type": "TV",
         "episodes": "13",
@@ -1522,7 +1705,8 @@
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -1531,7 +1715,8 @@
         "episodes": "5",
         "watched": "0",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -1549,7 +1734,8 @@
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -1576,7 +1762,8 @@
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "Down"
+            "Down",
+            "Hi"
         ]
     },
     {
@@ -1586,6 +1773,15 @@
         "watched": "0",
         "tags": [
             "Down"
+        ]
+    },
+    {
+        "title": "Mary to Majo no Hana",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -1743,6 +1939,267 @@
         ]
     },
     {
+        "title": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece 3D: Gekisou! Trap Coaster",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece 3D: Mugiwara Chase",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Gold",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Strong World",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Strong World Episode 0",
+        "type": "OVA",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Film: Z",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 1",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 14: Stampede",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 4: Dead End no Bouken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 5: Norowareta Seiken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Adventure of Nebulandia",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Episode of Luffy - Hand Island no Bouken",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Glorious Island",
+        "type": "Special",
+        "episodes": "2",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Jango no Dance Carnival",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Mamore! Saigo no Dai Butai",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Romance Dawn Story",
+        "type": "OVA",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Straw Hat Theater",
+        "type": "Special",
+        "episodes": "5",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Taose! Kaizoku Ganzack",
+        "type": "OVA",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Umi no Heso no Daibouken-hen",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece: Yume no Soccer Ou!",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "One Punch Man 2nd Season Specials",
         "type": "Special",
         "episodes": "6",
@@ -1830,6 +2287,15 @@
         "watched": "0",
         "tags": [
             "TD"
+        ]
+    },
+    {
+        "title": "Princess Principal: Crown Handler Movie 1",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
         ]
     },
     {
@@ -1977,6 +2443,24 @@
         ]
     },
     {
+        "title": "Seitokai Yakuindomo Movie",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
+        "title": "Seitokai Yakuindomo Movie 2",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Hi"
+        ]
+    },
+    {
         "title": "Seitokai Yakuindomo OVA",
         "type": "OVA",
         "episodes": "8",
@@ -2055,6 +2539,33 @@
         "watched": "0",
         "tags": [
             "Crunchy"
+        ]
+    },
+    {
+        "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
+        ]
+    },
+    {
+        "title": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
         ]
     },
     {
@@ -2281,6 +2792,15 @@
         "watched": "0",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Tenki no Ko",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "HBO"
         ]
     },
     {

@@ -2,8 +2,9 @@
   "menu": [
     "Mostar siguientes por ver",
     "Convertir xml a json",
-    "Contar por tipo",
-    "Contar por capitulos",
+    "Contar por tipo que vi",
+    "Contar por capitulos que vi",
+    "Contar por tipo para ver",
     "Salir"
   ]
 }

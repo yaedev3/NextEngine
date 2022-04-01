@@ -3,6 +3,7 @@ INPUT_FILE = 'xml/animelist.xml'
 OUTPUT_FILE = 'output/animelist.json'
 WATCHING_FILE = 'output/watching.json'
 COMPLETED_FILE = 'output/completed.json'
+PLANT_FILE = 'output/plantowatch.json'
 
 # Llaves del objeto status
 STATUS_KEY = 'status'

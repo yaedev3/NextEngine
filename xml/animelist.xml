@@ -10,12 +10,12 @@
 				<user_id>3527239</user_id>
 				<user_name>Yaew</user_name>
 				<user_export_type>1</user_export_type>
-				<user_total_anime>1488</user_total_anime>
-				<user_total_watching>17</user_total_watching>
-				<user_total_completed>1170</user_total_completed>
+				<user_total_anime>1545</user_total_anime>
+				<user_total_watching>15</user_total_watching>
+				<user_total_completed>1172</user_total_completed>
 				<user_total_onhold>19</user_total_onhold>
 				<user_total_dropped>2</user_total_dropped>
-				<user_total_plantowatch>280</user_total_plantowatch>
+				<user_total_plantowatch>337</user_total_plantowatch>
 			</myinfo>
 		
 		
@@ -2313,19 +2313,19 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>11</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-03-31</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Funi, Airing]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -2456,6 +2456,32 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>38464</series_animedb_id>
+					<series_title><![CDATA[Ashita Sekai ga Owaru toshitemo]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -3062,6 +3088,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>28805</series_animedb_id>
+					<series_title><![CDATA[Bakemono no Ko]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>5081</series_animedb_id>
 					<series_title><![CDATA[Bakemonogatari]]></series_title>
 					<series_type>TV</series_type>
@@ -3483,19 +3535,19 @@
 					<series_type>ONA</series_type>
 					<series_episodes>26</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>25</my_watched_episodes>
+					<my_watched_episodes>26</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-03-31</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, YouTube]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -4483,7 +4535,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Netflix]]></my_tags>
+					<my_tags><![CDATA[Netflix, HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -4509,7 +4561,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
+					<my_tags><![CDATA[HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -4641,6 +4693,32 @@
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching></my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>37828</series_animedb_id>
+					<series_title><![CDATA[Bokura no Nanokakan Sensou]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
 					<my_sns>default</my_sns>
@@ -6043,7 +6121,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
+					<my_tags><![CDATA[Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -7811,7 +7889,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Funi]]></my_tags>
+					<my_tags><![CDATA[Funi, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -8097,7 +8175,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[TD]]></my_tags>
+					<my_tags><![CDATA[Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -9640,6 +9718,58 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>49703</series_animedb_id>
+					<series_title><![CDATA[Fate/kaleid liner Prisma☆Illya (Zoku-hen)]]></series_title>
+					<series_type>Unknown</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>27525</series_animedb_id>
+					<series_title><![CDATA[Fate/kaleid liner Prisma☆Illya 2wei Herz!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>10</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>20509</series_animedb_id>
 					<series_title><![CDATA[Fate/kaleid liner Prisma☆Illya 2wei!]]></series_title>
 					<series_type>TV</series_type>
@@ -9658,6 +9788,110 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31706</series_animedb_id>
+					<series_title><![CDATA[Fate/kaleid liner Prisma☆Illya 3rei!!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>42030</series_animedb_id>
+					<series_title><![CDATA[Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>49633</series_animedb_id>
+					<series_title><![CDATA[Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo Mini Anime]]></series_title>
+					<series_type>ONA</series_type>
+					<series_episodes>3</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>34100</series_animedb_id>
+					<series_title><![CDATA[Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -14502,6 +14736,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>33204</series_animedb_id>
+					<series_title><![CDATA[Hirune Hime: Shiranai Watashi no Monogatari]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>33654</series_animedb_id>
 					<series_title><![CDATA[Hitorijime My Hero]]></series_title>
 					<series_type>TV</series_type>
@@ -17275,7 +17535,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Down, End]]></my_tags>
+					<my_tags><![CDATA[Down, End, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -17302,6 +17562,32 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>37586</series_animedb_id>
+					<series_title><![CDATA[Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -17752,6 +18038,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>20423</series_animedb_id>
+					<series_title><![CDATA[Kamisama no Inai Nichiyoubi: Kioku]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>5914</series_animedb_id>
 					<series_title><![CDATA[Kanamemo]]></series_title>
 					<series_type>TV</series_type>
@@ -17951,7 +18263,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
+					<my_tags><![CDATA[Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -18757,7 +19069,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Netflix]]></my_tags>
+					<my_tags><![CDATA[HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -19837,7 +20149,7 @@
 					<series_type>ONA</series_type>
 					<series_episodes>10</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>5</my_watched_episodes>
+					<my_watched_episodes>8</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -19928,6 +20240,136 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>17187</series_animedb_id>
+					<series_title><![CDATA[Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>19191</series_animedb_id>
+					<series_title><![CDATA[Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>19193</series_animedb_id>
+					<series_title><![CDATA[Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>19195</series_animedb_id>
+					<series_title><![CDATA[Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>27411</series_animedb_id>
+					<series_title><![CDATA[Koukaku Kidoutai: Shin Movie]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -21340,6 +21782,84 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>37514</series_animedb_id>
+					<series_title><![CDATA[Made in Abyss Movie 1: Tabidachi no Yoake]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>37515</series_animedb_id>
+					<series_title><![CDATA[Made in Abyss Movie 2: Hourou Suru Tasogare]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>36862</series_animedb_id>
+					<series_title><![CDATA[Made in Abyss Movie 3: Fukaki Tamashii no Reimei]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>22097</series_animedb_id>
 					<series_title><![CDATA[Magi: Sinbad no Bouken]]></series_title>
 					<series_type>OVA</series_type>
@@ -22241,7 +22761,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Down]]></my_tags>
+					<my_tags><![CDATA[Down, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -22267,7 +22787,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Down]]></my_tags>
+					<my_tags><![CDATA[Down, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -22319,7 +22839,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Down]]></my_tags>
+					<my_tags><![CDATA[Down, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -22397,7 +22917,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Down]]></my_tags>
+					<my_tags><![CDATA[Down, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -22476,6 +22996,32 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>34541</series_animedb_id>
+					<series_title><![CDATA[Mary to Majo no Hana]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -25396,6 +25942,760 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>25161</series_animedb_id>
+					<series_title><![CDATA[One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>12001</series_animedb_id>
+					<series_title><![CDATA[One Piece 3D: Gekisou! Trap Coaster]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>9999</series_animedb_id>
+					<series_title><![CDATA[One Piece 3D: Mugiwara Chase]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31490</series_animedb_id>
+					<series_title><![CDATA[One Piece Film: Gold]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>4155</series_animedb_id>
+					<series_title><![CDATA[One Piece Film: Strong World]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>8740</series_animedb_id>
+					<series_title><![CDATA[One Piece Film: Strong World Episode 0]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>12859</series_animedb_id>
+					<series_title><![CDATA[One Piece Film: Z]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>459</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 1]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>38234</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 14: Stampede]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>460</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 2: Nejimaki-jima no Daibouken]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>461</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 3: Chinjuu-jima no Chopper Oukoku]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>462</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 4: Dead End no Bouken]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>463</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 5: Norowareta Seiken]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>464</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>465</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 7: Karakuri-jou no Mecha Kyohei]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>3848</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>32051</series_animedb_id>
+					<series_title><![CDATA[One Piece: Adventure of Nebulandia]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>16239</series_animedb_id>
+					<series_title><![CDATA[One Piece: Episode of Luffy - Hand Island no Bouken]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>16468</series_animedb_id>
+					<series_title><![CDATA[One Piece: Glorious Island]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>2</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2385</series_animedb_id>
+					<series_title><![CDATA[One Piece: Jango no Dance Carnival]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>1238</series_animedb_id>
+					<series_title><![CDATA[One Piece: Mamore! Saigo no Dai Butai]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2490</series_animedb_id>
+					<series_title><![CDATA[One Piece: Mezase! Kaizoku Yakyuu Ou]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2020</series_animedb_id>
+					<series_title><![CDATA[One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>1237</series_animedb_id>
+					<series_title><![CDATA[One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>5252</series_animedb_id>
+					<series_title><![CDATA[One Piece: Romance Dawn Story]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2680</series_animedb_id>
+					<series_title><![CDATA[One Piece: Straw Hat Theater]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>5</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>466</series_animedb_id>
+					<series_title><![CDATA[One Piece: Taose! Kaizoku Ganzack]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>1094</series_animedb_id>
+					<series_title><![CDATA[One Piece: Umi no Heso no Daibouken-hen]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2386</series_animedb_id>
+					<series_title><![CDATA[One Piece: Yume no Soccer Ou!]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>30276</series_animedb_id>
 					<series_title><![CDATA[One Punch Man]]></series_title>
 					<series_type>TV</series_type>
@@ -27190,6 +28490,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>37807</series_animedb_id>
+					<series_title><![CDATA[Princess Principal: Crown Handler Movie 1]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>13601</series_animedb_id>
 					<series_title><![CDATA[Psycho-Pass]]></series_title>
 					<series_type>TV</series_type>
@@ -28963,7 +30289,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>5</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -29548,6 +30874,58 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>34504</series_animedb_id>
+					<series_title><![CDATA[Seitokai Yakuindomo Movie]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>40814</series_animedb_id>
+					<series_title><![CDATA[Seitokai Yakuindomo Movie 2]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -30856,6 +32234,58 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>23775</series_animedb_id>
+					<series_title><![CDATA[Shingeki no Kyojin Movie 1: Guren no Yumiya]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>23777</series_animedb_id>
+					<series_title><![CDATA[Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>25777</series_animedb_id>
 					<series_title><![CDATA[Shingeki no Kyojin Season 2]]></series_title>
 					<series_type>TV</series_type>
@@ -30874,6 +32304,32 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>36702</series_animedb_id>
+					<series_title><![CDATA[Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -31549,7 +33005,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Down, End]]></my_tags>
+					<my_tags><![CDATA[Down, End, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -34098,6 +35554,32 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>38826</series_animedb_id>
+					<series_title><![CDATA[Tenki no Ko]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[HBO]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -37139,7 +38621,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Down, End]]></my_tags>
+					<my_tags><![CDATA[Down, End, Hi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>

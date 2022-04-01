@@ -639,6 +639,15 @@
         ]
     },
     {
+        "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Arifureta Shokugyou de Sekai Saikyou Specials",
         "type": "Special",
         "episodes": "2",
@@ -955,6 +964,15 @@
     },
     {
         "title": "BanG Dream! Garupa\u2606Pico",
+        "type": "ONA",
+        "episodes": "26",
+        "watched": "26",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "BanG Dream! Garupa\u2606Pico Fever!",
         "type": "ONA",
         "episodes": "26",
         "watched": "26",

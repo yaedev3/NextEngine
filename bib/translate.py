@@ -2,6 +2,11 @@ from const import *
 import json
 import xmltodict
 
+def CheckJsonObjects(first_object, second_object):
+  first_str = str(first_object)
+  second_str = str(second_object)
+  return first_str == second_str
+
 def ConvertXmlToJson(xml_data):
   xml_object = xmltodict.parse(xml_data)
   object = json.dumps(xml_object, indent = 4)

@@ -10,26 +10,6 @@
         ]
     },
     {
-        "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "11",
-        "tags": [
-            "Funi",
-            "Airing"
-        ]
-    },
-    {
-        "title": "BanG Dream! Garupa\u2606Pico Fever!",
-        "type": "ONA",
-        "episodes": "26",
-        "watched": "25",
-        "tags": [
-            "Airing",
-            "YouTube"
-        ]
-    },
-    {
         "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
         "type": "TV",
         "episodes": "12",
@@ -93,7 +73,7 @@
         "title": "Kotarou wa Hitorigurashi",
         "type": "ONA",
         "episodes": "10",
-        "watched": "5",
+        "watched": "8",
         "tags": [
             "End",
             "Netflix"
@@ -123,7 +103,7 @@
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "tags": [
             "End",
             "Crunchy"
@@ -146,7 +126,8 @@
         "watched": "10",
         "tags": [
             "Down",
-            "End"
+            "End",
+            "Hi"
         ]
     },
     {
@@ -156,7 +137,8 @@
         "watched": "6",
         "tags": [
             "Down",
-            "End"
+            "End",
+            "Hi"
         ]
     },
     {
