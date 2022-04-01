@@ -14,11 +14,8 @@ status = inputoutput.GetFirstValue('input/status.json')
 def ConvertInputFile():
   xml_data = inputoutput.OpenFile(INPUT_FILE)
   anime_list = translate.TranslateTwoFiles(xml_data, keys)
-  old_anime_list = inputoutput.OpenFile(OUTPUT_FILE)
-  if translate.CheckJsonObjects(anime_list, old_anime_list):
-    print("Writing new files...")
-    inputoutput.WriteJson(anime_list, OUTPUT_FILE)
-    sort.SortByStatus(anime_list, status, inputoutput.WriteJson)
+  inputoutput.WriteJson(anime_list, OUTPUT_FILE)
+  sort.SortByStatus(anime_list, status, inputoutput.WriteJson)
 
 def PrintSortedFile(file_name, filter):
   anime_list = inputoutput.OpenJson(file_name)
