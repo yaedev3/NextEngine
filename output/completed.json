@@ -4716,6 +4716,15 @@
         ]
     },
     {
+        "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku",
         "type": "ONA",
         "episodes": "12",
@@ -6840,6 +6849,15 @@
         ]
     },
     {
+        "title": "One Piece Movie 14: Stampede",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "One Punch Man",
         "type": "TV",
         "episodes": "12",
@@ -8392,6 +8410,15 @@
         "type": "TV",
         "episodes": "16",
         "watched": "16",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Shingeki no Kyojin: The Final Season Part 2",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
         "tags": [
             ""
         ]
@@ -10126,6 +10153,15 @@
     },
     {
         "title": "Yami Shibai",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "13",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Yami Shibai 10",
         "type": "TV",
         "episodes": "13",
         "watched": "13",

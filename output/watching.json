@@ -50,16 +50,6 @@
         ]
     },
     {
-        "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "11",
-        "tags": [
-            "Airing",
-            "Crunchy"
-        ]
-    },
-    {
         "title": "Koisuru Asteroid",
         "type": "TV",
         "episodes": "12",
@@ -73,7 +63,7 @@
         "title": "Kotarou wa Hitorigurashi",
         "type": "ONA",
         "episodes": "10",
-        "watched": "8",
+        "watched": "9",
         "tags": [
             "End",
             "Netflix"
@@ -103,20 +93,10 @@
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "tags": [
             "End",
             "Crunchy"
-        ]
-    },
-    {
-        "title": "Shingeki no Kyojin: The Final Season Part 2",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "11",
-        "tags": [
-            "Crunchy",
-            "Airing"
         ]
     },
     {
@@ -134,21 +114,11 @@
         "title": "Yagate Kimi ni Naru",
         "type": "TV",
         "episodes": "13",
-        "watched": "6",
+        "watched": "8",
         "tags": [
             "Down",
             "End",
             "Hi"
-        ]
-    },
-    {
-        "title": "Yami Shibai 10",
-        "type": "TV",
-        "episodes": "0",
-        "watched": "12",
-        "tags": [
-            "Crunchy",
-            "Airing"
         ]
     }
 ]
