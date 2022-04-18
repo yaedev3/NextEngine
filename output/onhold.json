@@ -1,5 +1,15 @@
 [
     {
+        "title": "Aggressive Retsuko",
+        "type": "TV",
+        "episodes": "100",
+        "watched": "4",
+        "tags": [
+            "Down",
+            "Next"
+        ]
+    },
+    {
         "title": "Aikatsu!",
         "type": "TV",
         "episodes": "178",
@@ -50,6 +60,16 @@
         ]
     },
     {
+        "title": "Edens Zero",
+        "type": "TV",
+        "episodes": "25",
+        "watched": "12",
+        "tags": [
+            "Netflix",
+            "End"
+        ]
+    },
+    {
         "title": "Fate/Grand Carnival",
         "type": "OVA",
         "episodes": "4",
@@ -65,7 +85,8 @@
         "watched": "2",
         "tags": [
             "Crunchy",
-            "End"
+            "End",
+            "Next"
         ]
     },
     {
@@ -154,7 +175,8 @@
         "watched": "2",
         "tags": [
             "Crunchy",
-            "End"
+            "End",
+            "Next"
         ]
     },
     {
@@ -173,7 +195,8 @@
         "episodes": "3",
         "watched": "2",
         "tags": [
-            "Airing"
+            "Airing",
+            "Next"
         ]
     },
     {
@@ -183,7 +206,8 @@
         "watched": "2",
         "tags": [
             "Crunchy",
-            "End"
+            "End",
+            "Next"
         ]
     }
 ]

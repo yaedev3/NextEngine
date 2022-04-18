@@ -56,15 +56,6 @@
         ]
     },
     {
-        "title": "Aggressive Retsuko",
-        "type": "TV",
-        "episodes": "100",
-        "watched": "4",
-        "tags": [
-            "Down"
-        ]
-    },
-    {
         "title": "Ajin 2nd Season",
         "type": "TV",
         "episodes": "13",
@@ -239,7 +230,7 @@
     {
         "title": "Black\u2605\u2605Rock Shooter:  Dawn Fall",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "0",
         "tags": [
             ""
@@ -400,6 +391,15 @@
         ]
     },
     {
+        "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+        "type": "Movie",
+        "episodes": "3",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Chuunibyou demo Koi ga Shitai! Lite",
         "type": "ONA",
         "episodes": "6",
@@ -504,7 +504,7 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -519,7 +519,7 @@
     {
         "title": "Date A Live IV",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "0",
         "tags": [
             ""
@@ -644,6 +644,33 @@
         ]
     },
     {
+        "title": "Evangelion: 1.0 You Are (Not) Alone",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Evangelion: 2.0 You Can (Not) Advance",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Evangelion: 3.0 You Can (Not) Redo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Fairy Tail OVA",
         "type": "OVA",
         "episodes": "5",
@@ -676,7 +703,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -748,7 +775,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -757,7 +784,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -766,7 +793,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -866,6 +893,15 @@
         "watched": "0",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Gake no Ue no Ponyo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -973,7 +1009,7 @@
         "episodes": "51",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -992,6 +1028,15 @@
         "watched": "0",
         "tags": [
             "Funi"
+        ]
+    },
+    {
+        "title": "Healer Girl",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "tags": [
+            ""
         ]
     },
     {
@@ -1202,6 +1247,15 @@
         ]
     },
     {
+        "title": "Kaguya-hime no Monogatari",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "TV",
         "episodes": "0",
@@ -1225,7 +1279,7 @@
         "episodes": "12",
         "watched": "1",
         "tags": [
-            "Down",
+            "NAS",
             "End",
             "Hi"
         ]
@@ -1268,6 +1322,15 @@
         ]
     },
     {
+        "title": "Kamiarizuki no Kodomo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Kamisama no Inai Nichiyoubi: Kioku",
         "type": "Special",
         "episodes": "1",
@@ -1304,12 +1367,30 @@
         ]
     },
     {
+        "title": "Karigurashi no Arrietty",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Katarina Nounai Kaigi",
         "type": "ONA",
         "episodes": "26",
         "watched": "0",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Kaze no Tani no Nausica\u00e4",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -1355,15 +1436,6 @@
         "watched": "0",
         "tags": [
             "HBO"
-        ]
-    },
-    {
-        "title": "Kingdom 4th Season",
-        "type": "TV",
-        "episodes": "0",
-        "watched": "0",
-        "tags": [
-            ""
         ]
     },
     {
@@ -1643,7 +1715,7 @@
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -1652,7 +1724,7 @@
         "episodes": "26",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -1661,7 +1733,25 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
+        ]
+    },
+    {
+        "title": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "TD"
+        ]
+    },
+    {
+        "title": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "TD"
         ]
     },
     {
@@ -1706,7 +1796,7 @@
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -1716,7 +1806,7 @@
         "episodes": "5",
         "watched": "0",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -1726,7 +1816,7 @@
         "episodes": "5",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -1735,7 +1825,7 @@
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -1745,7 +1835,7 @@
         "episodes": "11",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -1754,7 +1844,7 @@
         "episodes": "7",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -1763,7 +1853,7 @@
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -1773,7 +1863,7 @@
         "episodes": "6",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -1814,6 +1904,15 @@
         ]
     },
     {
+        "title": "Mimi wo Sumaseba",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Minami-ke",
         "type": "TV",
         "episodes": "13",
@@ -1838,6 +1937,24 @@
         "watched": "0",
         "tags": [
             "Funi"
+        ]
+    },
+    {
+        "title": "Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -1892,6 +2009,42 @@
         "watched": "0",
         "tags": [
             "Funi"
+        ]
+    },
+    {
+        "title": "Neon Genesis Evangelion",
+        "type": "TV",
+        "episodes": "26",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Neon Genesis Evangelion: Death & Rebirth",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Ni no Kuni",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -1967,24 +2120,6 @@
         ]
     },
     {
-        "title": "One Piece Film: Gold",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Film: Strong World",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            ""
-        ]
-    },
-    {
         "title": "One Piece Film: Strong World Episode 0",
         "type": "OVA",
         "episodes": "1",
@@ -1994,7 +2129,7 @@
         ]
     },
     {
-        "title": "One Piece Film: Z",
+        "title": "One Piece Movie 01",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2003,7 +2138,7 @@
         ]
     },
     {
-        "title": "One Piece Movie 1",
+        "title": "One Piece Movie 02: Nejimaki-jima no Daibouken",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2012,7 +2147,7 @@
         ]
     },
     {
-        "title": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+        "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2021,7 +2156,7 @@
         ]
     },
     {
-        "title": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+        "title": "One Piece Movie 04: Dead End no Bouken",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2030,7 +2165,7 @@
         ]
     },
     {
-        "title": "One Piece Movie 4: Dead End no Bouken",
+        "title": "One Piece Movie 05: Norowareta Seiken",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2039,7 +2174,7 @@
         ]
     },
     {
-        "title": "One Piece Movie 5: Norowareta Seiken",
+        "title": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2048,7 +2183,7 @@
         ]
     },
     {
-        "title": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+        "title": "One Piece Movie 07: Karakuri-jou no Mecha Kyohei",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2057,21 +2192,12 @@
         ]
     },
     {
-        "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+        "title": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
         "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            ""
+            "Netflix"
         ]
     },
     {
@@ -2359,7 +2485,7 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "TD"
+            "Hi"
         ]
     },
     {
@@ -2458,7 +2584,7 @@
         "episodes": "8",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -2633,15 +2759,6 @@
         ]
     },
     {
-        "title": "Spy x Family",
-        "type": "TV",
-        "episodes": "0",
-        "watched": "0",
-        "tags": [
-            ""
-        ]
-    },
-    {
         "title": "Starry\u2606Sky",
         "type": "ONA",
         "episodes": "26",
@@ -2656,7 +2773,7 @@
         "episodes": "8",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -2665,7 +2782,7 @@
         "episodes": "10",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -2729,7 +2846,7 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -2919,7 +3036,8 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "Down"
+            "NAS",
+            "Crunchy"
         ]
     },
     {
@@ -2964,7 +3082,7 @@
         "episodes": "1",
         "watched": "0",
         "tags": [
-            ""
+            "Netflix"
         ]
     },
     {

@@ -227,9 +227,10 @@
         "type": "TV",
         "episodes": "100",
         "watched": "4",
-        "status": "Plan to Watch",
+        "status": "On-Hold",
         "tags": [
-            "Down"
+            "Down",
+            "Next"
         ]
     },
     {
@@ -270,6 +271,17 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Aharen-san wa Hakarenai",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "1",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
         ]
     },
     {
@@ -1528,7 +1540,7 @@
     {
         "title": "Black\u2605\u2605Rock Shooter:  Dawn Fall",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
@@ -2230,6 +2242,16 @@
         ]
     },
     {
+        "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+        "type": "Movie",
+        "episodes": "3",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Chio-chan no Tsuugakuro",
         "type": "TV",
         "episodes": "12",
@@ -2826,7 +2848,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -2873,7 +2895,7 @@
     {
         "title": "Date A Live IV",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
@@ -3467,7 +3489,7 @@
         "type": "TV",
         "episodes": "25",
         "watched": "12",
-        "status": "Watching",
+        "status": "On-Hold",
         "tags": [
             "Netflix",
             "End"
@@ -3549,6 +3571,36 @@
         "episodes": "1",
         "watched": "1",
         "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Evangelion: 1.0 You Are (Not) Alone",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Evangelion: 2.0 You Can (Not) Advance",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Evangelion: 3.0 You Can (Not) Redo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
         "tags": [
             ""
         ]
@@ -3700,7 +3752,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -3840,7 +3892,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -3850,7 +3902,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -3860,7 +3912,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -4215,6 +4267,17 @@
         ]
     },
     {
+        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Gaikotsu Shotenin Honda-san",
         "type": "TV",
         "episodes": "12",
@@ -4222,6 +4285,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Gake no Ue no Ponyo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -4379,6 +4452,16 @@
         "type": "TV",
         "episodes": "12",
         "watched": "12",
+        "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Ged Senki",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
         "status": "Completed",
         "tags": [
             ""
@@ -4882,7 +4965,8 @@
         "status": "On-Hold",
         "tags": [
             "Crunchy",
-            "End"
+            "End",
+            "Next"
         ]
     },
     {
@@ -4962,7 +5046,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -5324,6 +5408,16 @@
         "status": "Plan to Watch",
         "tags": [
             "Funi"
+        ]
+    },
+    {
+        "title": "Healer Girl",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
         ]
     },
     {
@@ -5754,6 +5848,17 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+        "type": "TV",
+        "episodes": "10",
+        "watched": "1",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
         ]
     },
     {
@@ -6258,6 +6363,17 @@
         ]
     },
     {
+        "title": "Jantama Pong\u2606",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Jashin-chan Dropkick",
         "type": "TV",
         "episodes": "11",
@@ -6698,6 +6814,27 @@
         ]
     },
     {
+        "title": "Kaginado Season 2",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "1",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
+        "title": "Kaguya-hime no Monogatari",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
         "type": "TV",
         "episodes": "12",
@@ -6754,7 +6891,7 @@
         "watched": "1",
         "status": "Plan to Watch",
         "tags": [
-            "Down",
+            "NAS",
             "End",
             "Hi"
         ]
@@ -6911,6 +7048,16 @@
         ]
     },
     {
+        "title": "Kamiarizuki no Kodomo",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Kamigami no Asobi",
         "type": "TV",
         "episodes": "12",
@@ -7051,6 +7198,16 @@
         ]
     },
     {
+        "title": "Karigurashi no Arrietty",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Karneval (TV)",
         "type": "TV",
         "episodes": "13",
@@ -7128,6 +7285,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Kaze no Tani no Nausica\u00e4",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -7394,10 +7561,11 @@
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "0",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "2",
+        "status": "Watching",
         "tags": [
-            ""
+            "Airing",
+            "Crunchy"
         ]
     },
     {
@@ -7765,11 +7933,10 @@
         "title": "Kotarou wa Hitorigurashi",
         "type": "ONA",
         "episodes": "10",
-        "watched": "9",
-        "status": "Watching",
+        "watched": "10",
+        "status": "Completed",
         "tags": [
-            "End",
-            "Netflix"
+            ""
         ]
     },
     {
@@ -8520,7 +8687,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -8530,7 +8697,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -8540,7 +8707,27 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
+        ]
+    },
+    {
+        "title": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "TD"
+        ]
+    },
+    {
+        "title": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "TD"
         ]
     },
     {
@@ -8621,6 +8808,17 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Mahoutsukai Reimeiki",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
         ]
     },
     {
@@ -8771,7 +8969,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -8782,7 +8980,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -8793,7 +8991,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -8803,7 +9001,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -8814,7 +9012,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -8824,7 +9022,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -8834,7 +9032,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down",
+            "NAS",
             "Hi"
         ]
     },
@@ -8845,7 +9043,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -9037,6 +9235,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Mimi wo Sumaseba",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -9420,6 +9628,26 @@
         ]
     },
     {
+        "title": "Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Nanatsu no Taizai OVA",
         "type": "OVA",
         "episodes": "2",
@@ -9601,6 +9829,36 @@
         ]
     },
     {
+        "title": "Neon Genesis Evangelion",
+        "type": "TV",
+        "episodes": "26",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Neon Genesis Evangelion: Death & Rebirth",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Net-juu no Susume",
         "type": "ONA",
         "episodes": "10",
@@ -9648,6 +9906,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Ni no Kuni",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -10037,8 +10305,8 @@
         "title": "One Piece Film: Gold",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
             ""
         ]
@@ -10047,8 +10315,8 @@
         "title": "One Piece Film: Strong World",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
             ""
         ]
@@ -10067,6 +10335,16 @@
         "title": "One Piece Film: Z",
         "type": "Movie",
         "episodes": "1",
+        "watched": "1",
+        "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 01",
+        "type": "Movie",
+        "episodes": "1",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
@@ -10074,13 +10352,73 @@
         ]
     },
     {
-        "title": "One Piece Movie 1",
+        "title": "One Piece Movie 02: Nejimaki-jima no Daibouken",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 04: Dead End no Bouken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 05: Norowareta Seiken",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 07: Karakuri-jou no Mecha Kyohei",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Netflix"
         ]
     },
     {
@@ -10089,76 +10427,6 @@
         "episodes": "1",
         "watched": "1",
         "status": "Completed",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 2: Nejimaki-jima no Daibouken",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 4: Dead End no Bouken",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 5: Norowareta Seiken",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
-        "tags": [
-            ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
         "tags": [
             ""
         ]
@@ -11331,7 +11599,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "TD"
+            "Hi"
         ]
     },
     {
@@ -11462,6 +11730,17 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "RPG Fudousan",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
         ]
     },
     {
@@ -11679,7 +11958,7 @@
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "7",
         "status": "Watching",
         "tags": [
             "End",
@@ -11933,7 +12212,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -12328,6 +12607,17 @@
         ]
     },
     {
+        "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Shiki",
         "type": "TV",
         "episodes": "22",
@@ -12385,7 +12675,8 @@
         "status": "On-Hold",
         "tags": [
             "Crunchy",
-            "End"
+            "End",
+            "Next"
         ]
     },
     {
@@ -12722,12 +13013,10 @@
         "title": "Shoujo Shuumatsu Ryokou",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Down",
-            "End",
-            "Hi"
+            ""
         ]
     },
     {
@@ -13133,11 +13422,12 @@
     {
         "title": "Spy x Family",
         "type": "TV",
-        "episodes": "0",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "episodes": "12",
+        "watched": "2",
+        "status": "Watching",
         "tags": [
-            ""
+            "Airing",
+            "Crunchy"
         ]
     },
     {
@@ -13227,7 +13517,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -13237,7 +13527,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -13458,7 +13748,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS"
         ]
     },
     {
@@ -14440,7 +14730,8 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Down"
+            "NAS",
+            "Crunchy"
         ]
     },
     {
@@ -14640,7 +14931,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            ""
+            "Netflix"
         ]
     },
     {
@@ -14870,7 +15161,8 @@
         "watched": "2",
         "status": "On-Hold",
         "tags": [
-            "Airing"
+            "Airing",
+            "Next"
         ]
     },
     {
@@ -14887,12 +15179,10 @@
         "title": "Yagate Kimi ni Naru",
         "type": "TV",
         "episodes": "13",
-        "watched": "8",
-        "status": "Watching",
+        "watched": "13",
+        "status": "Completed",
         "tags": [
-            "Down",
-            "End",
-            "Hi"
+            ""
         ]
     },
     {
@@ -14913,7 +15203,8 @@
         "status": "On-Hold",
         "tags": [
             "Crunchy",
-            "End"
+            "End",
+            "Next"
         ]
     },
     {

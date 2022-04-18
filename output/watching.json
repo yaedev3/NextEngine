@@ -10,22 +10,22 @@
         ]
     },
     {
+        "title": "Aharen-san wa Hakarenai",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "1",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
         "type": "TV",
         "episodes": "12",
         "watched": "3",
         "tags": [
             "Crunchy",
-            "End"
-        ]
-    },
-    {
-        "title": "Edens Zero",
-        "type": "TV",
-        "episodes": "25",
-        "watched": "12",
-        "tags": [
-            "Netflix",
             "End"
         ]
     },
@@ -40,12 +40,62 @@
         ]
     },
     {
+        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+        "type": "TV",
+        "episodes": "10",
+        "watched": "1",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
         "watched": "6",
         "tags": [
             "End",
+            "Crunchy"
+        ]
+    },
+    {
+        "title": "Jantama Pong\u2606",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
+        "title": "Kaginado Season 2",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "1",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
+        "title": "Kingdom 4th Season",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "2",
+        "tags": [
+            "Airing",
             "Crunchy"
         ]
     },
@@ -60,13 +110,13 @@
         ]
     },
     {
-        "title": "Kotarou wa Hitorigurashi",
-        "type": "ONA",
-        "episodes": "10",
-        "watched": "9",
+        "title": "Mahoutsukai Reimeiki",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
         "tags": [
-            "End",
-            "Netflix"
+            "Airing",
+            "Crunchy"
         ]
     },
     {
@@ -90,35 +140,43 @@
         ]
     },
     {
+        "title": "RPG Fudousan",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "7",
         "tags": [
             "End",
             "Crunchy"
         ]
     },
     {
-        "title": "Shoujo Shuumatsu Ryokou",
+        "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
+        "watched": "2",
         "tags": [
-            "Down",
-            "End",
-            "Hi"
+            "Airing",
+            "Crunchy"
         ]
     },
     {
-        "title": "Yagate Kimi ni Naru",
+        "title": "Spy x Family",
         "type": "TV",
-        "episodes": "13",
-        "watched": "8",
+        "episodes": "12",
+        "watched": "2",
         "tags": [
-            "Down",
-            "End",
-            "Hi"
+            "Airing",
+            "Crunchy"
         ]
     }
 ]
