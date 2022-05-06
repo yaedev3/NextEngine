@@ -1,10 +1,10 @@
 {
   "menu": [
-    "Mostar siguientes por ver",
-    "Convertir xml a json",
-    "Contar por tipo que vi",
-    "Contar por capitulos que vi",
-    "Contar por tipo para ver",
+    "Animes terminados por ver",
+    "Convertir de XML a json",
+    "Contar animes vistos por tipo",
+    "Contar animes vistos por capitulos",
+    "Contar animes para ver por tipo",
     "Salir"
   ]
 }

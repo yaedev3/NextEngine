@@ -4270,7 +4270,7 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "type": "TV",
         "episodes": "12",
-        "watched": "2",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -5854,11 +5854,12 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "1",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Monday"
         ]
     },
     {
@@ -6366,11 +6367,21 @@
         "title": "Jantama Pong\u2606",
         "type": "TV",
         "episodes": "0",
-        "watched": "0",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
             "Crunchy"
+        ]
+    },
+    {
+        "title": "Jantama Pong\u2606 Episode 0",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "1",
+        "status": "Completed",
+        "tags": [
+            ""
         ]
     },
     {
@@ -6817,7 +6828,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "1",
+        "watched": "2",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -7561,7 +7572,7 @@
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "0",
-        "watched": "2",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -7709,6 +7720,17 @@
         ]
     },
     {
+        "title": "Koi wa Sekai Seifuku no Ato de",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "1",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Koihime\u2020Musou",
         "type": "TV",
         "episodes": "12",
@@ -7805,6 +7827,16 @@
         "episodes": "12",
         "watched": "12",
         "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kono Healer, Mendokusai",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Dropped",
         "tags": [
             ""
         ]
@@ -8085,6 +8117,16 @@
         "episodes": "24",
         "watched": "24",
         "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kunoichi Tsubaki no Mune no Uchi",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "0",
+        "status": "Watching",
         "tags": [
             ""
         ]
@@ -8564,20 +8606,20 @@
         "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
-            "Hi"
+            ""
         ]
     },
     {
         "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
-            "Hi"
+            ""
         ]
     },
     {
@@ -8814,7 +8856,7 @@
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "2",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -9160,10 +9202,11 @@
         "title": "Megami-ryou no Ryoubo-kun.",
         "type": "TV",
         "episodes": "10",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Watching",
         "tags": [
-            ""
+            "End",
+            "Hi"
         ]
     },
     {
@@ -10264,7 +10307,7 @@
         "title": "One Piece",
         "type": "TV",
         "episodes": "0",
-        "watched": "996",
+        "watched": "997",
         "status": "On-Hold",
         "tags": [
             "Crunchy",
@@ -10913,6 +10956,17 @@
         ]
     },
     {
+        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "4",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Otome wa Boku ni Koishiteru",
         "type": "TV",
         "episodes": "12",
@@ -11050,6 +11104,17 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Paripi Koumei",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Hi"
         ]
     },
     {
@@ -11736,7 +11801,7 @@
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "2",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -12077,6 +12142,16 @@
     },
     {
         "title": "School Days",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Seijo no Maryoku wa Bannou Desu",
         "type": "TV",
         "episodes": "12",
         "watched": "12",
@@ -12516,6 +12591,17 @@
         ]
     },
     {
+        "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "1",
+        "status": "Watching",
+        "tags": [
+            "Airing",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Shakugan no Shana",
         "type": "TV",
         "episodes": "24",
@@ -12610,7 +12696,7 @@
         "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
         "type": "TV",
         "episodes": "12",
-        "watched": "2",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -13423,7 +13509,7 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "2",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -14173,6 +14259,17 @@
         ]
     },
     {
+        "title": "Thermae Romae Novae",
+        "type": "ONA",
+        "episodes": "11",
+        "watched": "3",
+        "status": "Watching",
+        "tags": [
+            "Netflix",
+            "End"
+        ]
+    },
+    {
         "title": "Tiger Mask W",
         "type": "TV",
         "episodes": "38",
@@ -14506,8 +14603,8 @@
         "title": "Tsuki ga Michibiku Isekai Douchuu",
         "type": "TV",
         "episodes": "12",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
             ""
         ]
@@ -15653,6 +15750,16 @@
         "episodes": "12",
         "watched": "12",
         "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Yuusha, Yamemasu",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
         "tags": [
             ""
         ]
