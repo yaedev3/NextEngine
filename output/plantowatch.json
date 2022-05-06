@@ -56,7 +56,7 @@
         ]
     },
     {
-        "title": "Ajin 2nd Season",
+        "title": "Ajin Part 2",
         "type": "TV",
         "episodes": "13",
         "watched": "0",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "title": "Break Blade 1: Kakusei no Toki",
+        "title": "Break Blade Movie 1: Kakusei no Toki",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -301,7 +301,7 @@
         ]
     },
     {
-        "title": "Break Blade 2: Ketsubetsu no Michi",
+        "title": "Break Blade Movie 2: Ketsubetsu no Michi",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -310,7 +310,7 @@
         ]
     },
     {
-        "title": "Break Blade 3: Kyoujin no Ato",
+        "title": "Break Blade Movie 3: Kyoujin no Ato",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -319,7 +319,7 @@
         ]
     },
     {
-        "title": "Break Blade 4: Sanka no Chi",
+        "title": "Break Blade Movie 4: Sanka no Chi",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -328,7 +328,7 @@
         ]
     },
     {
-        "title": "Break Blade 5: Shisen no Hate",
+        "title": "Break Blade Movie 5: Shisen no Hate",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -337,7 +337,7 @@
         ]
     },
     {
-        "title": "Break Blade 6: Doukoku no Toride",
+        "title": "Break Blade Movie 6: Doukoku no Toride",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -346,7 +346,7 @@
         ]
     },
     {
-        "title": "Break Blade Picture Drama",
+        "title": "Break Blade Movie Picture Drama",
         "type": "Special",
         "episodes": "6",
         "watched": "0",
@@ -1261,7 +1261,9 @@
         "episodes": "0",
         "watched": "0",
         "tags": [
-            ""
+            "Airing",
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -1553,6 +1555,17 @@
         "watched": "0",
         "tags": [
             "Funi"
+        ]
+    },
+    {
+        "title": "Kunoichi Tsubaki no Mune no Uchi",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "0",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Saturday"
         ]
     },
     {
@@ -2318,6 +2331,15 @@
         ]
     },
     {
+        "title": "Oniichan wa Oshimai!",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
         "type": "ONA",
         "episodes": "4",
@@ -2459,6 +2481,17 @@
         "watched": "0",
         "tags": [
             "Hi"
+        ]
+    },
+    {
+        "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -2856,15 +2889,6 @@
         "watched": "0",
         "tags": [
             "Down"
-        ]
-    },
-    {
-        "title": "Tate no Yuusha no Nariagari Season 2",
-        "type": "TV",
-        "episodes": "13",
-        "watched": "0",
-        "tags": [
-            ""
         ]
     },
     {

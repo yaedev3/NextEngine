@@ -10,12 +10,12 @@
 				<user_id>3527239</user_id>
 				<user_name>Yaew</user_name>
 				<user_export_type>1</user_export_type>
-				<user_total_anime>1583</user_total_anime>
+				<user_total_anime>1585</user_total_anime>
 				<user_total_watching>25</user_total_watching>
 				<user_total_completed>1188</user_total_completed>
 				<user_total_onhold>21</user_total_onhold>
 				<user_total_dropped>3</user_total_dropped>
-				<user_total_plantowatch>346</user_total_plantowatch>
+				<user_total_plantowatch>348</user_total_plantowatch>
 			</myinfo>
 		
 		
@@ -727,7 +727,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>1</my_watched_episodes>
+					<my_watched_episodes>2</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -739,7 +739,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Friday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -983,7 +983,7 @@
 			
 				<anime>
 					<series_animedb_id>33253</series_animedb_id>
-					<series_title><![CDATA[Ajin 2nd Season]]></series_title>
+					<series_title><![CDATA[Ajin Part 2]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
@@ -1347,7 +1347,7 @@
 			
 				<anime>
 					<series_animedb_id>27655</series_animedb_id>
-					<series_title><![CDATA[Aldnoah.Zero 2nd Season]]></series_title>
+					<series_title><![CDATA[Aldnoah.Zero Part 2]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
@@ -4987,7 +4987,7 @@
 			
 				<anime>
 					<series_animedb_id>6772</series_animedb_id>
-					<series_title><![CDATA[Break Blade 1: Kakusei no Toki]]></series_title>
+					<series_title><![CDATA[Break Blade Movie 1: Kakusei no Toki]]></series_title>
 					<series_type>Movie</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -5013,7 +5013,7 @@
 			
 				<anime>
 					<series_animedb_id>8514</series_animedb_id>
-					<series_title><![CDATA[Break Blade 2: Ketsubetsu no Michi]]></series_title>
+					<series_title><![CDATA[Break Blade Movie 2: Ketsubetsu no Michi]]></series_title>
 					<series_type>Movie</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -5039,7 +5039,7 @@
 			
 				<anime>
 					<series_animedb_id>9252</series_animedb_id>
-					<series_title><![CDATA[Break Blade 3: Kyoujin no Ato]]></series_title>
+					<series_title><![CDATA[Break Blade Movie 3: Kyoujin no Ato]]></series_title>
 					<series_type>Movie</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -5065,7 +5065,7 @@
 			
 				<anime>
 					<series_animedb_id>9465</series_animedb_id>
-					<series_title><![CDATA[Break Blade 4: Sanka no Chi]]></series_title>
+					<series_title><![CDATA[Break Blade Movie 4: Sanka no Chi]]></series_title>
 					<series_type>Movie</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -5091,7 +5091,7 @@
 			
 				<anime>
 					<series_animedb_id>9724</series_animedb_id>
-					<series_title><![CDATA[Break Blade 5: Shisen no Hate]]></series_title>
+					<series_title><![CDATA[Break Blade Movie 5: Shisen no Hate]]></series_title>
 					<series_type>Movie</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -5117,7 +5117,7 @@
 			
 				<anime>
 					<series_animedb_id>10092</series_animedb_id>
-					<series_title><![CDATA[Break Blade 6: Doukoku no Toride]]></series_title>
+					<series_title><![CDATA[Break Blade Movie 6: Doukoku no Toride]]></series_title>
 					<series_type>Movie</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -5143,7 +5143,7 @@
 			
 				<anime>
 					<series_animedb_id>8648</series_animedb_id>
-					<series_title><![CDATA[Break Blade Picture Drama]]></series_title>
+					<series_title><![CDATA[Break Blade Movie Picture Drama]]></series_title>
 					<series_type>Special</series_type>
 					<series_episodes>6</series_episodes>
 					<my_id>0</my_id>
@@ -11075,7 +11075,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>5</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -11087,7 +11087,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Thursday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -11539,7 +11539,7 @@
 			
 				<anime>
 					<series_animedb_id>31637</series_animedb_id>
-					<series_title><![CDATA[Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season]]></series_title>
+					<series_title><![CDATA[Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
@@ -13411,7 +13411,7 @@
 			
 				<anime>
 					<series_animedb_id>40776</series_animedb_id>
-					<series_title><![CDATA[Haikyuu!! To the Top 2nd Season]]></series_title>
+					<series_title><![CDATA[Haikyuu!! To the Top Part 2]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
@@ -15183,7 +15183,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>10</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>4</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -16509,7 +16509,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>4</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -16521,7 +16521,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Friday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -17705,7 +17705,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>2</my_watched_episodes>
+					<my_watched_episodes>3</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -17717,7 +17717,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Tuesday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -17795,7 +17795,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Friday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -19629,7 +19629,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>4</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -19641,7 +19641,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Saturday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -20031,7 +20031,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Friday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -21066,12 +21066,12 @@
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Saturday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -22957,7 +22957,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>5</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -22969,7 +22969,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Thursday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -25375,7 +25375,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>4</my_watched_episodes>
+					<my_watched_episodes>11</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -27788,6 +27788,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>51678</series_animedb_id>
+					<series_title><![CDATA[Oniichan wa Oshimai!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>31143</series_animedb_id>
 					<series_title><![CDATA[Onsen Yousei Hakone-chan]]></series_title>
 					<series_type>TV</series_type>
@@ -28391,7 +28417,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>4</my_watched_episodes>
+					<my_watched_episodes>5</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -28403,7 +28429,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Sunday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -28781,7 +28807,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
+					<my_watched_episodes>6</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -28793,7 +28819,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Hi]]></my_tags>
+					<my_tags><![CDATA[Airing, Hi, Thursday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -30258,6 +30284,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>43470</series_animedb_id>
+					<series_title><![CDATA[Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Airing, Crunchy, Friday]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>10572</series_animedb_id>
 					<series_title><![CDATA[Ro-Kyu-Bu!]]></series_title>
 					<series_type>TV</series_type>
@@ -30575,7 +30627,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>4</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -30587,7 +30639,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Wednesday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -31147,7 +31199,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>7</my_watched_episodes>
+					<my_watched_episodes>8</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -32641,7 +32693,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Thursday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -32889,7 +32941,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>5</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -32901,7 +32953,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Wednesday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -34995,7 +35047,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>4</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -35007,7 +35059,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Saturday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -36113,19 +36165,19 @@
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
+					<my_watched_episodes>5</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
+					<my_tags><![CDATA[Airing, Crunchy, Wednesday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -36945,7 +36997,7 @@
 					<series_type>ONA</series_type>
 					<series_episodes>11</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>3</my_watched_episodes>
+					<my_watched_episodes>4</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>

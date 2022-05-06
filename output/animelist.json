@@ -277,11 +277,12 @@
         "title": "Aharen-san wa Hakarenai",
         "type": "TV",
         "episodes": "0",
-        "watched": "1",
+        "watched": "2",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -376,7 +377,7 @@
         ]
     },
     {
-        "title": "Ajin 2nd Season",
+        "title": "Ajin Part 2",
         "type": "TV",
         "episodes": "13",
         "watched": "0",
@@ -516,7 +517,7 @@
         ]
     },
     {
-        "title": "Aldnoah.Zero 2nd Season",
+        "title": "Aldnoah.Zero Part 2",
         "type": "TV",
         "episodes": "12",
         "watched": "12",
@@ -1922,7 +1923,7 @@
         ]
     },
     {
-        "title": "Break Blade 1: Kakusei no Toki",
+        "title": "Break Blade Movie 1: Kakusei no Toki",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -1932,7 +1933,7 @@
         ]
     },
     {
-        "title": "Break Blade 2: Ketsubetsu no Michi",
+        "title": "Break Blade Movie 2: Ketsubetsu no Michi",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -1942,7 +1943,7 @@
         ]
     },
     {
-        "title": "Break Blade 3: Kyoujin no Ato",
+        "title": "Break Blade Movie 3: Kyoujin no Ato",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -1952,7 +1953,7 @@
         ]
     },
     {
-        "title": "Break Blade 4: Sanka no Chi",
+        "title": "Break Blade Movie 4: Sanka no Chi",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -1962,7 +1963,7 @@
         ]
     },
     {
-        "title": "Break Blade 5: Shisen no Hate",
+        "title": "Break Blade Movie 5: Shisen no Hate",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -1972,7 +1973,7 @@
         ]
     },
     {
-        "title": "Break Blade 6: Doukoku no Toride",
+        "title": "Break Blade Movie 6: Doukoku no Toride",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -1982,7 +1983,7 @@
         ]
     },
     {
-        "title": "Break Blade Picture Drama",
+        "title": "Break Blade Movie Picture Drama",
         "type": "Special",
         "episodes": "6",
         "watched": "0",
@@ -4270,11 +4271,12 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Thursday"
         ]
     },
     {
@@ -4448,7 +4450,7 @@
         ]
     },
     {
-        "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
+        "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",
         "type": "TV",
         "episodes": "12",
         "watched": "12",
@@ -5170,7 +5172,7 @@
         ]
     },
     {
-        "title": "Haikyuu!! To the Top 2nd Season",
+        "title": "Haikyuu!! To the Top Part 2",
         "type": "TV",
         "episodes": "12",
         "watched": "12",
@@ -5854,7 +5856,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "3",
+        "watched": "4",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -6367,11 +6369,12 @@
         "title": "Jantama Pong\u2606",
         "type": "TV",
         "episodes": "0",
-        "watched": "3",
+        "watched": "4",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -6828,11 +6831,12 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "2",
+        "watched": "3",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Tuesday"
         ]
     },
     {
@@ -6862,7 +6866,9 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            ""
+            "Airing",
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -7572,11 +7578,12 @@
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "0",
-        "watched": "3",
+        "watched": "4",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Saturday"
         ]
     },
     {
@@ -7727,7 +7734,8 @@
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -8126,9 +8134,11 @@
         "type": "TV",
         "episodes": "13",
         "watched": "0",
-        "status": "Watching",
+        "status": "Plan to Watch",
         "tags": [
-            ""
+            "Airing",
+            "Crunchy",
+            "Saturday"
         ]
     },
     {
@@ -8856,11 +8866,12 @@
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Thursday"
         ]
     },
     {
@@ -9794,7 +9805,7 @@
         "title": "Natsume Yuujinchou San",
         "type": "TV",
         "episodes": "13",
-        "watched": "4",
+        "watched": "11",
         "status": "Watching",
         "tags": [
             "Crunchy",
@@ -10725,6 +10736,16 @@
         ]
     },
     {
+        "title": "Oniichan wa Oshimai!",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Onsen Yousei Hakone-chan",
         "type": "TV",
         "episodes": "13",
@@ -10959,11 +10980,12 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "5",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Sunday"
         ]
     },
     {
@@ -11110,11 +11132,12 @@
         "title": "Paripi Koumei",
         "type": "TV",
         "episodes": "12",
-        "watched": "0",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Hi"
+            "Hi",
+            "Thursday"
         ]
     },
     {
@@ -11678,6 +11701,18 @@
         ]
     },
     {
+        "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+        "type": "TV",
+        "episodes": "0",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Friday"
+        ]
+    },
+    {
         "title": "Ro-Kyu-Bu!",
         "type": "TV",
         "episodes": "12",
@@ -11801,11 +11836,12 @@
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "4",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Wednesday"
         ]
     },
     {
@@ -12023,7 +12059,7 @@
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
+        "watched": "8",
         "status": "Watching",
         "tags": [
             "End",
@@ -12598,7 +12634,8 @@
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Thursday"
         ]
     },
     {
@@ -12696,11 +12733,12 @@
         "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Wednesday"
         ]
     },
     {
@@ -13509,11 +13547,12 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "4",
         "status": "Watching",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Saturday"
         ]
     },
     {
@@ -13942,10 +13981,12 @@
         "title": "Tate no Yuusha no Nariagari Season 2",
         "type": "TV",
         "episodes": "13",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "5",
+        "status": "Watching",
         "tags": [
-            ""
+            "Airing",
+            "Crunchy",
+            "Wednesday"
         ]
     },
     {
@@ -14262,7 +14303,7 @@
         "title": "Thermae Romae Novae",
         "type": "ONA",
         "episodes": "11",
-        "watched": "3",
+        "watched": "4",
         "status": "Watching",
         "tags": [
             "Netflix",

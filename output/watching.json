@@ -13,10 +13,11 @@
         "title": "Aharen-san wa Hakarenai",
         "type": "TV",
         "episodes": "0",
-        "watched": "1",
+        "watched": "2",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -43,17 +44,18 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Thursday"
         ]
     },
     {
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "3",
+        "watched": "4",
         "tags": [
             "Airing",
             "Crunchy",
@@ -74,30 +76,33 @@
         "title": "Jantama Pong\u2606",
         "type": "TV",
         "episodes": "0",
-        "watched": "3",
+        "watched": "4",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Friday"
         ]
     },
     {
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "2",
+        "watched": "3",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Tuesday"
         ]
     },
     {
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "0",
-        "watched": "3",
+        "watched": "4",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Saturday"
         ]
     },
     {
@@ -107,7 +112,8 @@
         "watched": "1",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Friday"
         ]
     },
     {
@@ -121,22 +127,14 @@
         ]
     },
     {
-        "title": "Kunoichi Tsubaki no Mune no Uchi",
-        "type": "TV",
-        "episodes": "13",
-        "watched": "0",
-        "tags": [
-            ""
-        ]
-    },
-    {
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Thursday"
         ]
     },
     {
@@ -153,7 +151,7 @@
         "title": "Natsume Yuujinchou San",
         "type": "TV",
         "episodes": "13",
-        "watched": "4",
+        "watched": "11",
         "tags": [
             "Crunchy",
             "End"
@@ -173,37 +171,40 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "5",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Sunday"
         ]
     },
     {
         "title": "Paripi Koumei",
         "type": "TV",
         "episodes": "12",
-        "watched": "0",
+        "watched": "6",
         "tags": [
             "Airing",
-            "Hi"
+            "Hi",
+            "Thursday"
         ]
     },
     {
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "4",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Wednesday"
         ]
     },
     {
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
+        "watched": "8",
         "tags": [
             "End",
             "Crunchy"
@@ -216,34 +217,48 @@
         "watched": "1",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Thursday"
         ]
     },
     {
         "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "5",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Wednesday"
         ]
     },
     {
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "3",
+        "watched": "4",
         "tags": [
             "Airing",
-            "Crunchy"
+            "Crunchy",
+            "Saturday"
+        ]
+    },
+    {
+        "title": "Tate no Yuusha no Nariagari Season 2",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "5",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Wednesday"
         ]
     },
     {
         "title": "Thermae Romae Novae",
         "type": "ONA",
         "episodes": "11",
-        "watched": "3",
+        "watched": "4",
         "tags": [
             "Netflix",
             "End"
