@@ -5850,6 +5850,15 @@
         ]
     },
     {
+        "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Magi: Sinbad no Bouken",
         "type": "OVA",
         "episodes": "5",
@@ -6562,6 +6571,15 @@
     },
     {
         "title": "Natsume Yuujinchou",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "13",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Natsume Yuujinchou San",
         "type": "TV",
         "episodes": "13",
         "watched": "13",
@@ -7911,6 +7929,15 @@
         ]
     },
     {
+        "title": "Sakugan",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Sakura Quest",
         "type": "TV",
         "episodes": "25",
@@ -8104,6 +8131,15 @@
         "type": "TV",
         "episodes": "13",
         "watched": "13",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Seitokai Yakuindomo Movie",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
         "tags": [
             ""
         ]

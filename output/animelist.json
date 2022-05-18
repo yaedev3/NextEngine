@@ -276,7 +276,7 @@
     {
         "title": "Aharen-san wa Hakarenai",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "2",
         "status": "Watching",
         "tags": [
@@ -4271,7 +4271,7 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -5856,7 +5856,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "4",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -6358,7 +6358,7 @@
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "6",
+        "watched": "7",
         "status": "Watching",
         "tags": [
             "End",
@@ -6831,7 +6831,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "3",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -6862,9 +6862,9 @@
     {
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "TV",
-        "episodes": "0",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "episodes": "12",
+        "watched": "6",
+        "status": "Watching",
         "tags": [
             "Airing",
             "Crunchy",
@@ -7121,7 +7121,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Hi"
+            ""
         ]
     },
     {
@@ -7577,8 +7577,8 @@
     {
         "title": "Kingdom 4th Season",
         "type": "TV",
-        "episodes": "0",
-        "watched": "4",
+        "episodes": "26",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -8636,10 +8636,10 @@
         "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
-            "Hi"
+            ""
         ]
     },
     {
@@ -8866,7 +8866,7 @@
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -9805,11 +9805,10 @@
         "title": "Natsume Yuujinchou San",
         "type": "TV",
         "episodes": "13",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "13",
+        "status": "Completed",
         "tags": [
-            "Crunchy",
-            "End"
+            ""
         ]
     },
     {
@@ -10980,7 +10979,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "7",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -11132,7 +11131,7 @@
         "title": "Paripi Koumei",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "7",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -11703,7 +11702,7 @@
     {
         "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
@@ -11836,7 +11835,7 @@
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -12059,11 +12058,10 @@
         "title": "Sakugan",
         "type": "TV",
         "episodes": "12",
-        "watched": "8",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "End",
-            "Crunchy"
+            ""
         ]
     },
     {
@@ -12300,10 +12298,10 @@
         "title": "Seitokai Yakuindomo Movie",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
-            "Hi"
+            ""
         ]
     },
     {
@@ -12733,7 +12731,7 @@
         "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -13547,7 +13545,7 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -13981,7 +13979,7 @@
         "title": "Tate no Yuusha no Nariagari Season 2",
         "type": "TV",
         "episodes": "13",
-        "watched": "5",
+        "watched": "6",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -15799,8 +15797,8 @@
         "title": "Yuusha, Yamemasu",
         "type": "TV",
         "episodes": "12",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "3",
+        "status": "Watching",
         "tags": [
             ""
         ]

@@ -12,7 +12,7 @@
     {
         "title": "Aharen-san wa Hakarenai",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "2",
         "tags": [
             "Airing",
@@ -44,7 +44,7 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -55,7 +55,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "4",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -66,7 +66,7 @@
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "6",
+        "watched": "7",
         "tags": [
             "End",
             "Crunchy"
@@ -87,7 +87,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "3",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -95,10 +95,21 @@
         ]
     },
     {
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "6",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Friday"
+        ]
+    },
+    {
         "title": "Kingdom 4th Season",
         "type": "TV",
-        "episodes": "0",
-        "watched": "4",
+        "episodes": "26",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -130,7 +141,7 @@
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -148,16 +159,6 @@
         ]
     },
     {
-        "title": "Natsume Yuujinchou San",
-        "type": "TV",
-        "episodes": "13",
-        "watched": "11",
-        "tags": [
-            "Crunchy",
-            "End"
-        ]
-    },
-    {
         "title": "Nichijou",
         "type": "TV",
         "episodes": "26",
@@ -171,7 +172,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "7",
         "tags": [
             "Airing",
             "Crunchy",
@@ -182,7 +183,7 @@
         "title": "Paripi Koumei",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "7",
         "tags": [
             "Airing",
             "Hi",
@@ -193,21 +194,11 @@
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
             "Wednesday"
-        ]
-    },
-    {
-        "title": "Sakugan",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "8",
-        "tags": [
-            "End",
-            "Crunchy"
         ]
     },
     {
@@ -225,7 +216,7 @@
         "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
         "type": "TV",
         "episodes": "12",
-        "watched": "5",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -236,7 +227,7 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "4",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -247,7 +238,7 @@
         "title": "Tate no Yuusha no Nariagari Season 2",
         "type": "TV",
         "episodes": "13",
-        "watched": "5",
+        "watched": "6",
         "tags": [
             "Airing",
             "Crunchy",
@@ -262,6 +253,15 @@
         "tags": [
             "Netflix",
             "End"
+        ]
+    },
+    {
+        "title": "Yuusha, Yamemasu",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "3",
+        "tags": [
+            ""
         ]
     }
 ]
