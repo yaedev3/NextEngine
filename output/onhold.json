@@ -110,6 +110,16 @@
         ]
     },
     {
+        "title": "Megami-ryou no Ryoubo-kun.",
+        "type": "TV",
+        "episodes": "10",
+        "watched": "2",
+        "tags": [
+            "End",
+            "Hi"
+        ]
+    },
+    {
         "title": "Ochikobore Fruit Tart",
         "type": "TV",
         "episodes": "12",
@@ -137,6 +147,17 @@
         "tags": [
             "Crunchy",
             "End"
+        ]
+    },
+    {
+        "title": "Paripi Koumei",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "8",
+        "tags": [
+            "Airing",
+            "Hi",
+            "Thursday"
         ]
     },
     {
@@ -208,6 +229,17 @@
             "Crunchy",
             "End",
             "Next"
+        ]
+    },
+    {
+        "title": "Yuusha, Yamemasu",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "7",
+        "tags": [
+            "Airing",
+            "Hi",
+            "Tuesday"
         ]
     }
 ]

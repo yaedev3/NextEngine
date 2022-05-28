@@ -21,6 +21,16 @@
         ]
     },
     {
+        "title": "Berserk",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "8",
+        "tags": [
+            "End",
+            "Crunchy"
+        ]
+    },
+    {
         "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
         "type": "TV",
         "episodes": "12",
@@ -55,7 +65,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "6",
+        "watched": "7",
         "tags": [
             "Airing",
             "Crunchy",
@@ -87,7 +97,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "6",
+        "watched": "7",
         "tags": [
             "Airing",
             "Crunchy",
@@ -98,7 +108,7 @@
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
+        "watched": "8",
         "tags": [
             "Airing",
             "Crunchy",
@@ -109,7 +119,7 @@
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "26",
-        "watched": "6",
+        "watched": "8",
         "tags": [
             "Airing",
             "Crunchy",
@@ -128,16 +138,6 @@
         ]
     },
     {
-        "title": "Koisuru Asteroid",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "8",
-        "tags": [
-            "Crunchy",
-            "End"
-        ]
-    },
-    {
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
@@ -146,16 +146,6 @@
             "Airing",
             "Crunchy",
             "Thursday"
-        ]
-    },
-    {
-        "title": "Megami-ryou no Ryoubo-kun.",
-        "type": "TV",
-        "episodes": "10",
-        "watched": "2",
-        "tags": [
-            "End",
-            "Hi"
         ]
     },
     {
@@ -172,22 +162,11 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
+        "watched": "8",
         "tags": [
             "Airing",
             "Crunchy",
             "Sunday"
-        ]
-    },
-    {
-        "title": "Paripi Koumei",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "8",
-        "tags": [
-            "Airing",
-            "Hi",
-            "Thursday"
         ]
     },
     {
@@ -227,7 +206,7 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "7",
         "tags": [
             "Airing",
             "Crunchy",
@@ -253,15 +232,6 @@
         "tags": [
             "Netflix",
             "End"
-        ]
-    },
-    {
-        "title": "Yuusha, Yamemasu",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "7",
-        "tags": [
-            ""
         ]
     }
 ]

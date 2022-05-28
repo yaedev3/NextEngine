@@ -10,12 +10,12 @@
 				<user_id>3527239</user_id>
 				<user_name>Yaew</user_name>
 				<user_export_type>1</user_export_type>
-				<user_total_anime>1585</user_total_anime>
-				<user_total_watching>25</user_total_watching>
-				<user_total_completed>1192</user_total_completed>
-				<user_total_onhold>21</user_total_onhold>
+				<user_total_anime>1587</user_total_anime>
+				<user_total_watching>22</user_total_watching>
+				<user_total_completed>1195</user_total_completed>
+				<user_total_onhold>24</user_total_onhold>
 				<user_total_dropped>3</user_total_dropped>
-				<user_total_plantowatch>344</user_total_plantowatch>
+				<user_total_plantowatch>343</user_total_plantowatch>
 			</myinfo>
 		
 		
@@ -3809,6 +3809,32 @@
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching></my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>32379</series_animedb_id>
+					<series_title><![CDATA[Berserk]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>8</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Watching</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[End, Crunchy]]></my_tags>
+					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
 					<my_sns>default</my_sns>
@@ -8757,7 +8783,7 @@
 			
 				<anime>
 					<series_animedb_id>47164</series_animedb_id>
-					<series_title><![CDATA[Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV]]></series_title>
+					<series_title><![CDATA[Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
@@ -15183,7 +15209,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>10</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>6</my_watched_episodes>
+					<my_watched_episodes>7</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -17705,7 +17731,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>6</my_watched_episodes>
+					<my_watched_episodes>7</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -17783,7 +17809,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>7</my_watched_episodes>
+					<my_watched_episodes>8</my_watched_episodes>
 					<my_start_date>2022-05-07</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -19629,7 +19655,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>26</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>6</my_watched_episodes>
+					<my_watched_episodes>8</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -20071,19 +20097,45 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-05-22</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Crunchy, End]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>41271</series_animedb_id>
+					<series_title><![CDATA[Koisuru Asteroid: Furikaeri - KiraKira Special!]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -23848,7 +23900,7 @@
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>On-Hold</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -28417,7 +28469,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>7</my_watched_episodes>
+					<my_watched_episodes>8</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -28814,7 +28866,7 @@
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>On-Hold</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -35047,7 +35099,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>6</my_watched_episodes>
+					<my_watched_episodes>7</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -40878,12 +40930,12 @@
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>On-Hold</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
+					<my_tags><![CDATA[Airing, Hi, Tuesday]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
