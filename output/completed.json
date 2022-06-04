@@ -1053,6 +1053,15 @@
         ]
     },
     {
+        "title": "Berserk",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Binbougami ga!",
         "type": "TV",
         "episodes": "13",
@@ -3627,6 +3636,15 @@
         ]
     },
     {
+        "title": "Happy Sugar Life",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "HaruChika: Haruta to Chika wa Seishun suru",
         "type": "TV",
         "episodes": "12",
@@ -4918,6 +4936,15 @@
         "type": "TV",
         "episodes": "36",
         "watched": "36",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Karigurashi no Arrietty",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
         "tags": [
             ""
         ]
@@ -6958,6 +6985,15 @@
     },
     {
         "title": "One Piece Film: Z",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
         "type": "Movie",
         "episodes": "1",
         "watched": "1",

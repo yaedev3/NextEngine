@@ -21,16 +21,6 @@
         ]
     },
     {
-        "title": "Berserk",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "8",
-        "tags": [
-            "End",
-            "Crunchy"
-        ]
-    },
-    {
         "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
         "type": "TV",
         "episodes": "12",
@@ -65,7 +55,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "7",
+        "watched": "8",
         "tags": [
             "Airing",
             "Crunchy",
@@ -76,7 +66,7 @@
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "7",
+        "watched": "9",
         "tags": [
             "End",
             "Crunchy"
@@ -86,7 +76,7 @@
         "title": "Jantama Pong\u2606",
         "type": "TV",
         "episodes": "0",
-        "watched": "4",
+        "watched": "8",
         "tags": [
             "Airing",
             "Crunchy",
@@ -108,7 +98,7 @@
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "TV",
         "episodes": "12",
-        "watched": "8",
+        "watched": "9",
         "tags": [
             "Airing",
             "Crunchy",
@@ -162,7 +152,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "8",
+        "watched": "9",
         "tags": [
             "Airing",
             "Crunchy",
@@ -173,11 +163,21 @@
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "8",
         "tags": [
             "Airing",
             "Crunchy",
             "Wednesday"
+        ]
+    },
+    {
+        "title": "Saenai Heroine no Sodatekata \u266d",
+        "type": "TV",
+        "episodes": "11",
+        "watched": "4",
+        "tags": [
+            "Prime",
+            "End"
         ]
     },
     {
@@ -189,6 +189,16 @@
             "Airing",
             "Crunchy",
             "Thursday"
+        ]
+    },
+    {
+        "title": "Shaman King (2021)",
+        "type": "TV",
+        "episodes": "52",
+        "watched": "40",
+        "tags": [
+            "End",
+            "Netflix"
         ]
     },
     {
@@ -206,7 +216,7 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
+        "watched": "9",
         "tags": [
             "Airing",
             "Crunchy",

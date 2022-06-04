@@ -219,6 +219,15 @@
         ]
     },
     {
+        "title": "BanG Dream! Morfonication",
+        "type": "Special",
+        "episodes": "2",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Beatless",
         "type": "TV",
         "episodes": "20",
@@ -1358,15 +1367,6 @@
         ]
     },
     {
-        "title": "Karigurashi no Arrietty",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            "Netflix"
-        ]
-    },
-    {
         "title": "Katarina Nounai Kaigi",
         "type": "ONA",
         "episodes": "26",
@@ -2146,15 +2146,6 @@
         "watched": "0",
         "tags": [
             ""
-        ]
-    },
-    {
-        "title": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            "Netflix"
         ]
     },
     {

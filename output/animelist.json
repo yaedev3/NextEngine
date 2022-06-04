@@ -1388,6 +1388,16 @@
         ]
     },
     {
+        "title": "BanG Dream! Morfonication",
+        "type": "Special",
+        "episodes": "2",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Barakamon",
         "type": "TV",
         "episodes": "12",
@@ -1471,11 +1481,10 @@
         "title": "Berserk",
         "type": "TV",
         "episodes": "12",
-        "watched": "8",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "End",
-            "Crunchy"
+            ""
         ]
     },
     {
@@ -5346,11 +5355,10 @@
         "title": "Happy Sugar Life",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
-        "status": "On-Hold",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "End",
-            "Prime"
+            ""
         ]
     },
     {
@@ -5867,7 +5875,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "7",
+        "watched": "8",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -6369,7 +6377,7 @@
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "7",
+        "watched": "9",
         "status": "Watching",
         "tags": [
             "End",
@@ -6380,7 +6388,7 @@
         "title": "Jantama Pong\u2606",
         "type": "TV",
         "episodes": "0",
-        "watched": "4",
+        "watched": "8",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -6874,7 +6882,7 @@
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "TV",
         "episodes": "12",
-        "watched": "8",
+        "watched": "9",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -7229,10 +7237,10 @@
         "title": "Karigurashi no Arrietty",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
-            "Netflix"
+            ""
         ]
     },
     {
@@ -10488,10 +10496,10 @@
         "title": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
-            "Netflix"
+            ""
         ]
     },
     {
@@ -10999,7 +11007,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "8",
+        "watched": "9",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -11855,7 +11863,7 @@
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "8",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -11918,7 +11926,7 @@
         "type": "TV",
         "episodes": "11",
         "watched": "4",
-        "status": "On-Hold",
+        "status": "Watching",
         "tags": [
             "Prime",
             "End"
@@ -12730,10 +12738,10 @@
         "title": "Shaman King (2021)",
         "type": "TV",
         "episodes": "52",
-        "watched": "38",
-        "status": "On-Hold",
+        "watched": "40",
+        "status": "Watching",
         "tags": [
-            "Airing",
+            "End",
             "Netflix"
         ]
     },
@@ -13565,7 +13573,7 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
+        "watched": "9",
         "status": "Watching",
         "tags": [
             "Airing",

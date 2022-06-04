@@ -90,16 +90,6 @@
         ]
     },
     {
-        "title": "Happy Sugar Life",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "6",
-        "tags": [
-            "End",
-            "Prime"
-        ]
-    },
-    {
         "title": "Maoujou de Oyasumi",
         "type": "TV",
         "episodes": "12",
@@ -167,26 +157,6 @@
         "watched": "159",
         "tags": [
             "End"
-        ]
-    },
-    {
-        "title": "Saenai Heroine no Sodatekata \u266d",
-        "type": "TV",
-        "episodes": "11",
-        "watched": "4",
-        "tags": [
-            "Prime",
-            "End"
-        ]
-    },
-    {
-        "title": "Shaman King (2021)",
-        "type": "TV",
-        "episodes": "52",
-        "watched": "38",
-        "tags": [
-            "Airing",
-            "Netflix"
         ]
     },
     {
