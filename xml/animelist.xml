@@ -10,12 +10,12 @@
 				<user_id>3527239</user_id>
 				<user_name>Yaew</user_name>
 				<user_export_type>1</user_export_type>
-				<user_total_anime>1588</user_total_anime>
-				<user_total_watching>23</user_total_watching>
-				<user_total_completed>1199</user_total_completed>
-				<user_total_onhold>21</user_total_onhold>
+				<user_total_anime>1598</user_total_anime>
+				<user_total_watching>22</user_total_watching>
+				<user_total_completed>1200</user_total_completed>
+				<user_total_onhold>22</user_total_onhold>
 				<user_total_dropped>3</user_total_dropped>
-				<user_total_plantowatch>342</user_total_plantowatch>
+				<user_total_plantowatch>351</user_total_plantowatch>
 			</myinfo>
 		
 		
@@ -14259,7 +14259,33 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Funi]]></my_tags>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>8479</series_animedb_id>
+					<series_title><![CDATA[Hetalia World Series]]></series_title>
+					<series_type>ONA</series_type>
+					<series_episodes>48</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -14320,6 +14346,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>15195</series_animedb_id>
+					<series_title><![CDATA[Hetalia: The Beautiful World]]></series_title>
+					<series_type>ONA</series_type>
+					<series_episodes>20</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>28607</series_animedb_id>
 					<series_title><![CDATA[Hetalia: The World Twinkle]]></series_title>
 					<series_type>ONA</series_type>
@@ -14338,6 +14390,32 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31158</series_animedb_id>
+					<series_title><![CDATA[Hetalia: The World Twinkle Specials]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>3</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -15155,7 +15233,7 @@
 					<series_animedb_id>47904</series_animedb_id>
 					<series_title><![CDATA[Hololive Alternative]]></series_title>
 					<series_type>ONA</series_type>
-					<series_episodes>1</series_episodes>
+					<series_episodes>2</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>1</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -15235,7 +15313,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>10</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>9</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -16535,7 +16613,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>20</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>14</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -17757,7 +17835,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>7</my_watched_episodes>
+					<my_watched_episodes>9</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -19303,7 +19381,85 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[TD]]></my_tags>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>28207</series_animedb_id>
+					<series_title><![CDATA[Ketsuekigata-kun! 2]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31566</series_animedb_id>
+					<series_title><![CDATA[Ketsuekigata-kun! 3]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>32274</series_animedb_id>
+					<series_title><![CDATA[Ketsuekigata-kun! 4]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -19681,7 +19837,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>26</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>9</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -23229,7 +23385,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[TD]]></my_tags>
+					<my_tags><![CDATA[Mini]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -25876,7 +26032,7 @@
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -28495,7 +28651,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>10</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -30050,6 +30206,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>14627</series_animedb_id>
+					<series_title><![CDATA[Recorder to Randoseru]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>2</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>11491</series_animedb_id>
 					<series_title><![CDATA[Recorder to Randoseru Do♪]]></series_title>
 					<series_type>TV</series_type>
@@ -30067,7 +30249,85 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[TD]]></my_tags>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>18099</series_animedb_id>
+					<series_title><![CDATA[Recorder to Randoseru Mi☆]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>24935</series_animedb_id>
+					<series_title><![CDATA[Recorder to Randoseru Mi☆ Special]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>13377</series_animedb_id>
+					<series_title><![CDATA[Recorder to Randoseru Re♪]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[Mini]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -30868,7 +31128,7 @@
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>On-Hold</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -32967,19 +33227,19 @@
 					<series_type>TV</series_type>
 					<series_episodes>52</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>40</my_watched_episodes>
+					<my_watched_episodes>52</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-06-05</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[End, Netflix]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -35189,7 +35449,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[TD]]></my_tags>
+					<my_tags><![CDATA[Mini]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>

@@ -55,7 +55,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "8",
+        "watched": "9",
         "tags": [
             "Airing",
             "Crunchy",
@@ -66,7 +66,7 @@
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "9",
+        "watched": "14",
         "tags": [
             "End",
             "Crunchy"
@@ -87,7 +87,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "7",
+        "watched": "9",
         "tags": [
             "Airing",
             "Crunchy",
@@ -109,7 +109,7 @@
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "26",
-        "watched": "8",
+        "watched": "9",
         "tags": [
             "Airing",
             "Crunchy",
@@ -139,6 +139,15 @@
         ]
     },
     {
+        "title": "Ni no Kuni",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Netflix"
+        ]
+    },
+    {
         "title": "Nichijou",
         "type": "TV",
         "episodes": "26",
@@ -152,7 +161,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "9",
+        "watched": "10",
         "tags": [
             "Airing",
             "Crunchy",
@@ -171,16 +180,6 @@
         ]
     },
     {
-        "title": "Saenai Heroine no Sodatekata \u266d",
-        "type": "TV",
-        "episodes": "11",
-        "watched": "4",
-        "tags": [
-            "Prime",
-            "End"
-        ]
-    },
-    {
         "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
         "type": "TV",
         "episodes": "12",
@@ -189,16 +188,6 @@
             "Airing",
             "Crunchy",
             "Thursday"
-        ]
-    },
-    {
-        "title": "Shaman King (2021)",
-        "type": "TV",
-        "episodes": "52",
-        "watched": "40",
-        "tags": [
-            "End",
-            "Netflix"
         ]
     },
     {

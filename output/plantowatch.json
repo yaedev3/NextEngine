@@ -1054,7 +1054,34 @@
         "episodes": "52",
         "watched": "0",
         "tags": [
-            "Funi"
+            "Mini"
+        ]
+    },
+    {
+        "title": "Hetalia World Series",
+        "type": "ONA",
+        "episodes": "48",
+        "watched": "0",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Hetalia: The Beautiful World",
+        "type": "ONA",
+        "episodes": "20",
+        "watched": "0",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Hetalia: The World Twinkle Specials",
+        "type": "Special",
+        "episodes": "3",
+        "watched": "0",
+        "tags": [
+            "Mini"
         ]
     },
     {
@@ -1399,7 +1426,34 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "TD"
+            "Mini"
+        ]
+    },
+    {
+        "title": "Ketsuekigata-kun! 2",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Ketsuekigata-kun! 3",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Ketsuekigata-kun! 4",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "tags": [
+            "Mini"
         ]
     },
     {
@@ -1753,7 +1807,7 @@
         "episodes": "12",
         "watched": "0",
         "tags": [
-            "TD"
+            "Mini"
         ]
     },
     {
@@ -1988,15 +2042,6 @@
     },
     {
         "title": "Neon Genesis Evangelion: The End of Evangelion",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            "Netflix"
-        ]
-    },
-    {
-        "title": "Ni no Kuni",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
@@ -2410,12 +2455,48 @@
         ]
     },
     {
+        "title": "Recorder to Randoseru",
+        "type": "OVA",
+        "episodes": "2",
+        "watched": "0",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
         "title": "Recorder to Randoseru Do\u266a",
         "type": "TV",
         "episodes": "13",
         "watched": "0",
         "tags": [
-            "TD"
+            "Mini"
+        ]
+    },
+    {
+        "title": "Recorder to Randoseru Mi\u2606",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Recorder to Randoseru Mi\u2606 Special",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Recorder to Randoseru Re\u266a",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "0",
+        "tags": [
+            "Mini"
         ]
     },
     {
@@ -2723,7 +2804,7 @@
         "episodes": "26",
         "watched": "0",
         "tags": [
-            "TD"
+            "Mini"
         ]
     },
     {

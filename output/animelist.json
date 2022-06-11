@@ -5498,7 +5498,17 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "Funi"
+            "Mini"
+        ]
+    },
+    {
+        "title": "Hetalia World Series",
+        "type": "ONA",
+        "episodes": "48",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
         ]
     },
     {
@@ -5522,6 +5532,16 @@
         ]
     },
     {
+        "title": "Hetalia: The Beautiful World",
+        "type": "ONA",
+        "episodes": "20",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
         "title": "Hetalia: The World Twinkle",
         "type": "ONA",
         "episodes": "15",
@@ -5529,6 +5549,16 @@
         "status": "Completed",
         "tags": [
             ""
+        ]
+    },
+    {
+        "title": "Hetalia: The World Twinkle Specials",
+        "type": "Special",
+        "episodes": "3",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
         ]
     },
     {
@@ -5844,7 +5874,7 @@
     {
         "title": "Hololive Alternative",
         "type": "ONA",
-        "episodes": "1",
+        "episodes": "2",
         "watched": "1",
         "status": "Completed",
         "tags": [
@@ -5875,7 +5905,7 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
         "type": "TV",
         "episodes": "10",
-        "watched": "8",
+        "watched": "9",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -6377,7 +6407,7 @@
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "9",
+        "watched": "14",
         "status": "Watching",
         "tags": [
             "End",
@@ -6850,7 +6880,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "7",
+        "watched": "9",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -7450,7 +7480,37 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "TD"
+            "Mini"
+        ]
+    },
+    {
+        "title": "Ketsuekigata-kun! 2",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Ketsuekigata-kun! 3",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Ketsuekigata-kun! 4",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
         ]
     },
     {
@@ -7597,7 +7657,7 @@
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "26",
-        "watched": "8",
+        "watched": "9",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -8969,7 +9029,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "TD"
+            "Mini"
         ]
     },
     {
@@ -9994,7 +10054,7 @@
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
-        "status": "Plan to Watch",
+        "status": "Watching",
         "tags": [
             "Netflix"
         ]
@@ -11007,7 +11067,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "9",
+        "watched": "10",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -11608,13 +11668,53 @@
         ]
     },
     {
+        "title": "Recorder to Randoseru",
+        "type": "OVA",
+        "episodes": "2",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
         "title": "Recorder to Randoseru Do\u266a",
         "type": "TV",
         "episodes": "13",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "TD"
+            "Mini"
+        ]
+    },
+    {
+        "title": "Recorder to Randoseru Mi\u2606",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Recorder to Randoseru Mi\u2606 Special",
+        "type": "Special",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
+        ]
+    },
+    {
+        "title": "Recorder to Randoseru Re\u266a",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            "Mini"
         ]
     },
     {
@@ -11926,7 +12026,7 @@
         "type": "TV",
         "episodes": "11",
         "watched": "4",
-        "status": "Watching",
+        "status": "On-Hold",
         "tags": [
             "Prime",
             "End"
@@ -12738,11 +12838,10 @@
         "title": "Shaman King (2021)",
         "type": "TV",
         "episodes": "52",
-        "watched": "40",
-        "status": "Watching",
+        "watched": "52",
+        "status": "Completed",
         "tags": [
-            "End",
-            "Netflix"
+            ""
         ]
     },
     {
@@ -13598,7 +13697,7 @@
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
-            "TD"
+            "Mini"
         ]
     },
     {

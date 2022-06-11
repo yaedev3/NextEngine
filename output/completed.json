@@ -3980,7 +3980,7 @@
     {
         "title": "Hololive Alternative",
         "type": "ONA",
-        "episodes": "1",
+        "episodes": "2",
         "watched": "1",
         "tags": [
             ""
@@ -8473,6 +8473,15 @@
         "type": "TV",
         "episodes": "64",
         "watched": "64",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Shaman King (2021)",
+        "type": "TV",
+        "episodes": "52",
+        "watched": "52",
         "tags": [
             ""
         ]
