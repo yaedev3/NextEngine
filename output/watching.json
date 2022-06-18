@@ -31,6 +31,16 @@
         ]
     },
     {
+        "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+        "type": "Movie",
+        "episodes": "3",
+        "watched": "0",
+        "tags": [
+            "Netflix",
+            "End"
+        ]
+    },
+    {
         "title": "Fruits Basket 2nd Season",
         "type": "TV",
         "episodes": "25",
@@ -52,21 +62,10 @@
         ]
     },
     {
-        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
-        "type": "TV",
-        "episodes": "10",
-        "watched": "9",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Monday"
-        ]
-    },
-    {
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "14",
+        "watched": "18",
         "tags": [
             "End",
             "Crunchy"
@@ -87,7 +86,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "9",
+        "watched": "10",
         "tags": [
             "Airing",
             "Crunchy",
@@ -98,7 +97,7 @@
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "TV",
         "episodes": "12",
-        "watched": "9",
+        "watched": "10",
         "tags": [
             "Airing",
             "Crunchy",
@@ -109,7 +108,7 @@
         "title": "Kingdom 4th Season",
         "type": "TV",
         "episodes": "26",
-        "watched": "9",
+        "watched": "11",
         "tags": [
             "Airing",
             "Crunchy",
@@ -139,15 +138,6 @@
         ]
     },
     {
-        "title": "Ni no Kuni",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            "Netflix"
-        ]
-    },
-    {
         "title": "Nichijou",
         "type": "TV",
         "episodes": "26",
@@ -161,7 +151,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
+        "watched": "11",
         "tags": [
             "Airing",
             "Crunchy",
@@ -205,7 +195,7 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "9",
+        "watched": "10",
         "tags": [
             "Airing",
             "Crunchy",
@@ -227,7 +217,7 @@
         "title": "Thermae Romae Novae",
         "type": "ONA",
         "episodes": "11",
-        "watched": "4",
+        "watched": "5",
         "tags": [
             "Netflix",
             "End"

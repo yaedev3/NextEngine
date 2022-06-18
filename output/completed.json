@@ -4005,6 +4005,15 @@
         ]
     },
     {
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+        "type": "TV",
+        "episodes": "10",
+        "watched": "10",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA",
         "type": "OVA",
         "episodes": "1",
@@ -6716,6 +6725,15 @@
     {
         "title": "New Game!: Watashi, Shain Ryokou tte Hajimete nano de...",
         "type": "OVA",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Ni no Kuni",
+        "type": "Movie",
         "episodes": "1",
         "watched": "1",
         "tags": [
