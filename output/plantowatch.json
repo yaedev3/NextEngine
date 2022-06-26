@@ -56,6 +56,17 @@
         ]
     },
     {
+        "title": "Aharen-san wa Hakarenai",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "2",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Friday"
+        ]
+    },
+    {
         "title": "Ajin Part 2",
         "type": "TV",
         "episodes": "13",
@@ -1274,15 +1285,6 @@
         ]
     },
     {
-        "title": "Kaguya-hime no Monogatari",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            "Netflix"
-        ]
-    },
-    {
         "title": "Kai Byoui Ramune",
         "type": "TV",
         "episodes": "12",
@@ -1484,9 +1486,20 @@
         ]
     },
     {
+        "title": "Koi wa Sekai Seifuku no Ato de",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "1",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Friday"
+        ]
+    },
+    {
         "title": "Komi-san wa, Comyushou desu. 2nd Season",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "0",
         "tags": [
             ""
@@ -2673,6 +2686,17 @@
         ]
     },
     {
+        "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "1",
+        "tags": [
+            "Airing",
+            "Crunchy",
+            "Thursday"
+        ]
+    },
+    {
         "title": "Shakunetsu Kabaddi",
         "type": "TV",
         "episodes": "12",
@@ -3114,6 +3138,15 @@
         "watched": "0",
         "tags": [
             "Crunchy"
+        ]
+    },
+    {
+        "title": "Watashi ni Tenshi ga Maiorita! Precious Friends",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
         ]
     },
     {

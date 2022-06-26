@@ -10,33 +10,12 @@
         ]
     },
     {
-        "title": "Aharen-san wa Hakarenai",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "2",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Friday"
-        ]
-    },
-    {
         "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
         "type": "TV",
         "episodes": "12",
         "watched": "3",
         "tags": [
             "Crunchy",
-            "End"
-        ]
-    },
-    {
-        "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
-        "type": "Movie",
-        "episodes": "3",
-        "watched": "0",
-        "tags": [
-            "Netflix",
             "End"
         ]
     },
@@ -51,42 +30,10 @@
         ]
     },
     {
-        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "6",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Thursday"
-        ]
-    },
-    {
-        "title": "Jahy-sama wa Kujikenai!",
-        "type": "TV",
-        "episodes": "20",
-        "watched": "18",
-        "tags": [
-            "End",
-            "Crunchy"
-        ]
-    },
-    {
-        "title": "Jantama Pong\u2606",
-        "type": "TV",
-        "episodes": "0",
-        "watched": "8",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Friday"
-        ]
-    },
-    {
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "10",
+        "watched": "11",
         "tags": [
             "Airing",
             "Crunchy",
@@ -94,14 +41,12 @@
         ]
     },
     {
-        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "10",
+        "title": "Kaguya-hime no Monogatari",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Friday"
+            "Netflix"
         ]
     },
     {
@@ -116,21 +61,10 @@
         ]
     },
     {
-        "title": "Koi wa Sekai Seifuku no Ato de",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "1",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Friday"
-        ]
-    },
-    {
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "7",
         "tags": [
             "Airing",
             "Crunchy",
@@ -148,65 +82,20 @@
         ]
     },
     {
-        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+        "title": "Saenai Heroine no Sodatekata \u266d",
         "type": "TV",
-        "episodes": "12",
-        "watched": "11",
+        "episodes": "11",
+        "watched": "4",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Sunday"
-        ]
-    },
-    {
-        "title": "RPG Fudousan",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "8",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Wednesday"
-        ]
-    },
-    {
-        "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "1",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Thursday"
-        ]
-    },
-    {
-        "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "7",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Wednesday"
-        ]
-    },
-    {
-        "title": "Spy x Family",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "10",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Saturday"
+            "Prime",
+            "End"
         ]
     },
     {
         "title": "Tate no Yuusha no Nariagari Season 2",
         "type": "TV",
         "episodes": "13",
-        "watched": "6",
+        "watched": "12",
         "tags": [
             "Airing",
             "Crunchy",

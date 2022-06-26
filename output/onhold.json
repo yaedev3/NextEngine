@@ -6,7 +6,7 @@
         "watched": "4",
         "tags": [
             "Down",
-            "Next"
+            "End"
         ]
     },
     {
@@ -85,8 +85,7 @@
         "watched": "2",
         "tags": [
             "Crunchy",
-            "End",
-            "Next"
+            "End"
         ]
     },
     {
@@ -145,9 +144,8 @@
         "episodes": "12",
         "watched": "8",
         "tags": [
-            "Airing",
             "Hi",
-            "Thursday"
+            "End"
         ]
     },
     {
@@ -160,24 +158,13 @@
         ]
     },
     {
-        "title": "Saenai Heroine no Sodatekata \u266d",
-        "type": "TV",
-        "episodes": "11",
-        "watched": "4",
-        "tags": [
-            "Prime",
-            "End"
-        ]
-    },
-    {
         "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
         "type": "TV",
         "episodes": "13",
         "watched": "2",
         "tags": [
             "Crunchy",
-            "End",
-            "Next"
+            "End"
         ]
     },
     {
@@ -196,8 +183,7 @@
         "episodes": "3",
         "watched": "2",
         "tags": [
-            "Airing",
-            "Next"
+            "End"
         ]
     },
     {
@@ -207,8 +193,7 @@
         "watched": "2",
         "tags": [
             "Crunchy",
-            "End",
-            "Next"
+            "End"
         ]
     },
     {
@@ -217,9 +202,8 @@
         "episodes": "12",
         "watched": "7",
         "tags": [
-            "Airing",
             "Hi",
-            "Tuesday"
+            "End"
         ]
     }
 ]

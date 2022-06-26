@@ -230,7 +230,7 @@
         "status": "On-Hold",
         "tags": [
             "Down",
-            "Next"
+            "End"
         ]
     },
     {
@@ -278,7 +278,7 @@
         "type": "TV",
         "episodes": "12",
         "watched": "2",
-        "status": "Watching",
+        "status": "Plan to Watch",
         "tags": [
             "Airing",
             "Crunchy",
@@ -2266,11 +2266,10 @@
         "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
         "type": "Movie",
         "episodes": "3",
-        "watched": "0",
-        "status": "Watching",
+        "watched": "3",
+        "status": "Completed",
         "tags": [
-            "Netflix",
-            "End"
+            ""
         ]
     },
     {
@@ -4292,12 +4291,10 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Thursday"
+            ""
         ]
     },
     {
@@ -4988,8 +4985,7 @@
         "status": "On-Hold",
         "tags": [
             "Crunchy",
-            "End",
-            "Next"
+            "End"
         ]
     },
     {
@@ -6406,23 +6402,20 @@
         "title": "Jahy-sama wa Kujikenai!",
         "type": "TV",
         "episodes": "20",
-        "watched": "18",
-        "status": "Watching",
+        "watched": "20",
+        "status": "Completed",
         "tags": [
-            "End",
-            "Crunchy"
+            ""
         ]
     },
     {
         "title": "Jantama Pong\u2606",
         "type": "TV",
-        "episodes": "0",
-        "watched": "8",
-        "status": "Watching",
+        "episodes": "11",
+        "watched": "11",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Friday"
+            ""
         ]
     },
     {
@@ -6879,7 +6872,7 @@
         "title": "Kaginado Season 2",
         "type": "TV",
         "episodes": "0",
-        "watched": "10",
+        "watched": "11",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -6892,7 +6885,7 @@
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
-        "status": "Plan to Watch",
+        "status": "Watching",
         "tags": [
             "Netflix"
         ]
@@ -6910,13 +6903,11 @@
     {
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "TV",
-        "episodes": "12",
-        "watched": "10",
-        "status": "Watching",
+        "episodes": "13",
+        "watched": "13",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Friday"
+            ""
         ]
     },
     {
@@ -7809,7 +7800,7 @@
         "type": "TV",
         "episodes": "12",
         "watched": "1",
-        "status": "Watching",
+        "status": "Plan to Watch",
         "tags": [
             "Airing",
             "Crunchy",
@@ -7889,7 +7880,7 @@
     {
         "title": "Komi-san wa, Comyushou desu. 2nd Season",
         "type": "TV",
-        "episodes": "0",
+        "episodes": "12",
         "watched": "0",
         "status": "Plan to Watch",
         "tags": [
@@ -8953,7 +8944,7 @@
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "6",
+        "watched": "7",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -11066,12 +11057,10 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "TV",
         "episodes": "12",
-        "watched": "11",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Sunday"
+            ""
         ]
     },
     {
@@ -11221,9 +11210,8 @@
         "watched": "8",
         "status": "On-Hold",
         "tags": [
-            "Airing",
             "Hi",
-            "Thursday"
+            "End"
         ]
     },
     {
@@ -11962,12 +11950,10 @@
         "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
-        "watched": "8",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Wednesday"
+            ""
         ]
     },
     {
@@ -12025,7 +12011,7 @@
         "type": "TV",
         "episodes": "11",
         "watched": "4",
-        "status": "On-Hold",
+        "status": "Watching",
         "tags": [
             "Prime",
             "End"
@@ -12756,7 +12742,7 @@
         "type": "TV",
         "episodes": "12",
         "watched": "1",
-        "status": "Watching",
+        "status": "Plan to Watch",
         "tags": [
             "Airing",
             "Crunchy",
@@ -12857,12 +12843,10 @@
         "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Wednesday"
+            ""
         ]
     },
     {
@@ -12923,8 +12907,7 @@
         "status": "On-Hold",
         "tags": [
             "Crunchy",
-            "End",
-            "Next"
+            "End"
         ]
     },
     {
@@ -13671,12 +13654,10 @@
         "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
-        "watched": "10",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Saturday"
+            ""
         ]
     },
     {
@@ -14105,7 +14086,7 @@
         "title": "Tate no Yuusha no Nariagari Season 2",
         "type": "TV",
         "episodes": "13",
-        "watched": "6",
+        "watched": "12",
         "status": "Watching",
         "tags": [
             "Airing",
@@ -15327,6 +15308,16 @@
         ]
     },
     {
+        "title": "Watashi ni Tenshi ga Maiorita! Precious Friends",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
         "type": "TV",
         "episodes": "12",
@@ -15423,8 +15414,7 @@
         "watched": "2",
         "status": "On-Hold",
         "tags": [
-            "Airing",
-            "Next"
+            "End"
         ]
     },
     {
@@ -15465,8 +15455,7 @@
         "status": "On-Hold",
         "tags": [
             "Crunchy",
-            "End",
-            "Next"
+            "End"
         ]
     },
     {
@@ -15926,9 +15915,8 @@
         "watched": "7",
         "status": "On-Hold",
         "tags": [
-            "Airing",
             "Hi",
-            "Tuesday"
+            "End"
         ]
     },
     {

@@ -1557,6 +1557,15 @@
         ]
     },
     {
+        "title": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+        "type": "Movie",
+        "episodes": "3",
+        "watched": "3",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Chio-chan no Tsuugakuro",
         "type": "TV",
         "episodes": "12",
@@ -2818,6 +2827,15 @@
     },
     {
         "title": "Gabriel DropOut",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "type": "TV",
         "episodes": "12",
         "watched": "12",
@@ -4392,6 +4410,24 @@
         ]
     },
     {
+        "title": "Jahy-sama wa Kujikenai!",
+        "type": "TV",
+        "episodes": "20",
+        "watched": "20",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Jantama Pong\u2606",
+        "type": "TV",
+        "episodes": "11",
+        "watched": "11",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Jantama Pong\u2606 Episode 0",
         "type": "Special",
         "episodes": "1",
@@ -4738,6 +4774,15 @@
         "type": "TV",
         "episodes": "12",
         "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "13",
         "tags": [
             ""
         ]
@@ -7290,6 +7335,15 @@
         ]
     },
     {
+        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Otome wa Boku ni Koishiteru",
         "type": "TV",
         "episodes": "12",
@@ -7867,6 +7921,15 @@
     },
     {
         "title": "Rozen Maiden: Tr\u00e4umend",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "RPG Fudousan",
         "type": "TV",
         "episodes": "12",
         "watched": "12",
@@ -8514,6 +8577,15 @@
         ]
     },
     {
+        "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Shiki",
         "type": "TV",
         "episodes": "22",
@@ -9109,6 +9181,15 @@
     },
     {
         "title": "Sparrow's Hotel",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Spy x Family",
         "type": "TV",
         "episodes": "12",
         "watched": "12",
