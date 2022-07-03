@@ -10,12 +10,12 @@
 				<user_id>3527239</user_id>
 				<user_name>Yaew</user_name>
 				<user_export_type>1</user_export_type>
-				<user_total_anime>1599</user_total_anime>
-				<user_total_watching>11</user_total_watching>
-				<user_total_completed>1211</user_total_completed>
+				<user_total_anime>1608</user_total_anime>
+				<user_total_watching>9</user_total_watching>
+				<user_total_completed>1220</user_total_completed>
 				<user_total_onhold>21</user_total_onhold>
 				<user_total_dropped>3</user_total_dropped>
-				<user_total_plantowatch>353</user_total_plantowatch>
+				<user_total_plantowatch>355</user_total_plantowatch>
 			</myinfo>
 		
 		
@@ -904,6 +904,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>101</series_animedb_id>
+					<series_title><![CDATA[Air]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>857</series_animedb_id>
 					<series_title><![CDATA[Air Gear]]></series_title>
 					<series_type>TV</series_type>
@@ -914,6 +940,32 @@
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>8</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>50655</series_animedb_id>
+					<series_title><![CDATA[Aisai]]></series_title>
+					<series_type>Music</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>2022-06-28</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
@@ -1801,6 +1853,32 @@
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>33746</series_animedb_id>
+					<series_title><![CDATA[Anitore! XX: Hitotsu Yane no Shita de]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>3</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -4978,6 +5056,32 @@
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[Crunchy, Airing]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>51912</series_animedb_id>
+					<series_title><![CDATA[Bouto]]></series_title>
+					<series_type>Music</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>9</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -17833,21 +17937,21 @@
 					<series_animedb_id>50685</series_animedb_id>
 					<series_title><![CDATA[Kaginado Season 2]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>11</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-07-02</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy, Tuesday]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -17873,7 +17977,7 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Netflix]]></my_tags>
+					<my_tags><![CDATA[Netflix, End]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -18701,6 +18805,58 @@
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>144</series_animedb_id>
+					<series_title><![CDATA[Kanon]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>1530</series_animedb_id>
+					<series_title><![CDATA[Kanon (2006)]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -23191,19 +23347,19 @@
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>7</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-06-30</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy, Thursday]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -26852,6 +27008,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>39165</series_animedb_id>
+					<series_title><![CDATA[Oki ni Mesu mama]]></series_title>
+					<series_type>Music</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>9</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>37258</series_animedb_id>
 					<series_title><![CDATA[Omae wa Mada Gunma wo Shiranai]]></series_title>
 					<series_type>TV</series_type>
@@ -27307,6 +27489,32 @@
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2107</series_animedb_id>
+					<series_title><![CDATA[One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>2022-06-26</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -31121,7 +31329,7 @@
 					<series_type>TV</series_type>
 					<series_episodes>11</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>4</my_watched_episodes>
+					<my_watched_episodes>7</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -32702,6 +32910,32 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>51378</series_animedb_id>
+					<series_title><![CDATA[Senkou]]></series_title>
+					<series_type>Music</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>2022-06-28</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>6</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>42351</series_animedb_id>
 					<series_title><![CDATA[Senpai ga Uzai Kouhai no Hanashi]]></series_title>
 					<series_type>TV</series_type>
@@ -33565,19 +33799,19 @@
 					<series_type>Movie</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
+					<my_watched_episodes>1</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-07-02</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[HBO]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
@@ -36503,19 +36737,19 @@
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>12</my_watched_episodes>
+					<my_watched_episodes>13</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2022-06-29</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[Airing, Crunchy, Wednesday]]></my_tags>
+					<my_tags><![CDATA[]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>

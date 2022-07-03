@@ -347,10 +347,30 @@
         ]
     },
     {
+        "title": "Air",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Air Gear",
         "type": "TV",
         "episodes": "25",
         "watched": "25",
+        "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Aisai",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
         "status": "Completed",
         "tags": [
             ""
@@ -692,6 +712,16 @@
         "episodes": "12",
         "watched": "12",
         "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Anitore! XX: Hitotsu Yane no Shita de",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "3",
+        "status": "Watching",
         "tags": [
             ""
         ]
@@ -1920,6 +1950,16 @@
         "tags": [
             "Crunchy",
             "Airing"
+        ]
+    },
+    {
+        "title": "Bouto",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
+        "status": "Completed",
+        "tags": [
+            ""
         ]
     },
     {
@@ -6871,13 +6911,11 @@
     {
         "title": "Kaginado Season 2",
         "type": "TV",
-        "episodes": "0",
-        "watched": "11",
-        "status": "Watching",
+        "episodes": "12",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Tuesday"
+            ""
         ]
     },
     {
@@ -6887,7 +6925,8 @@
         "watched": "0",
         "status": "Watching",
         "tags": [
-            "Netflix"
+            "Netflix",
+            "End"
         ]
     },
     {
@@ -7209,6 +7248,26 @@
         "episodes": "2",
         "watched": "2",
         "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kanon",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "0",
+        "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kanon (2006)",
+        "type": "TV",
+        "episodes": "24",
+        "watched": "0",
+        "status": "Plan to Watch",
         "tags": [
             ""
         ]
@@ -8944,12 +9003,10 @@
         "title": "Mahoutsukai Reimeiki",
         "type": "TV",
         "episodes": "12",
-        "watched": "7",
-        "status": "Watching",
+        "watched": "12",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Thursday"
+            ""
         ]
     },
     {
@@ -10362,6 +10419,16 @@
         ]
     },
     {
+        "title": "Oki ni Mesu mama",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
+        "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Omae wa Mada Gunma wo Shiranai",
         "type": "TV",
         "episodes": "12",
@@ -10538,6 +10605,16 @@
         "episodes": "1",
         "watched": "0",
         "status": "Plan to Watch",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
             ""
         ]
@@ -12010,7 +12087,7 @@
         "title": "Saenai Heroine no Sodatekata \u266d",
         "type": "TV",
         "episodes": "11",
-        "watched": "4",
+        "watched": "7",
         "status": "Watching",
         "tags": [
             "Prime",
@@ -12618,6 +12695,16 @@
         ]
     },
     {
+        "title": "Senkou",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
+        "status": "Completed",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Senpai ga Uzai Kouhai no Hanashi",
         "type": "TV",
         "episodes": "12",
@@ -12954,10 +13041,10 @@
         "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
         "type": "Movie",
         "episodes": "1",
-        "watched": "0",
-        "status": "Plan to Watch",
+        "watched": "1",
+        "status": "Completed",
         "tags": [
-            "HBO"
+            ""
         ]
     },
     {
@@ -14086,12 +14173,10 @@
         "title": "Tate no Yuusha no Nariagari Season 2",
         "type": "TV",
         "episodes": "13",
-        "watched": "12",
-        "status": "Watching",
+        "watched": "13",
+        "status": "Completed",
         "tags": [
-            "Airing",
-            "Crunchy",
-            "Wednesday"
+            ""
         ]
     },
     {

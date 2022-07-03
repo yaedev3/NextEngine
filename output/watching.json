@@ -10,6 +10,15 @@
         ]
     },
     {
+        "title": "Anitore! XX: Hitotsu Yane no Shita de",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "3",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
         "type": "TV",
         "episodes": "12",
@@ -30,23 +39,13 @@
         ]
     },
     {
-        "title": "Kaginado Season 2",
-        "type": "TV",
-        "episodes": "0",
-        "watched": "11",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Tuesday"
-        ]
-    },
-    {
         "title": "Kaguya-hime no Monogatari",
         "type": "Movie",
         "episodes": "1",
         "watched": "0",
         "tags": [
-            "Netflix"
+            "Netflix",
+            "End"
         ]
     },
     {
@@ -58,17 +57,6 @@
             "Airing",
             "Crunchy",
             "Saturday"
-        ]
-    },
-    {
-        "title": "Mahoutsukai Reimeiki",
-        "type": "TV",
-        "episodes": "12",
-        "watched": "7",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Thursday"
         ]
     },
     {
@@ -85,21 +73,10 @@
         "title": "Saenai Heroine no Sodatekata \u266d",
         "type": "TV",
         "episodes": "11",
-        "watched": "4",
+        "watched": "7",
         "tags": [
             "Prime",
             "End"
-        ]
-    },
-    {
-        "title": "Tate no Yuusha no Nariagari Season 2",
-        "type": "TV",
-        "episodes": "13",
-        "watched": "12",
-        "tags": [
-            "Airing",
-            "Crunchy",
-            "Wednesday"
         ]
     },
     {

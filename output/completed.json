@@ -225,6 +225,15 @@
         ]
     },
     {
+        "title": "Aisai",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Aiura",
         "type": "TV",
         "episodes": "12",
@@ -1345,6 +1354,15 @@
         "type": "TV",
         "episodes": "13",
         "watched": "13",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Bouto",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
         "tags": [
             ""
         ]
@@ -4770,6 +4788,15 @@
         ]
     },
     {
+        "title": "Kaginado Season 2",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
         "type": "TV",
         "episodes": "12",
@@ -6066,6 +6093,15 @@
         ]
     },
     {
+        "title": "Mahoutsukai Reimeiki",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "12",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Mairimashita! Iruma-kun",
         "type": "TV",
         "episodes": "23",
@@ -7011,6 +7047,15 @@
         ]
     },
     {
+        "title": "Oki ni Mesu mama",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Omae wa Mada Gunma wo Shiranai",
         "type": "TV",
         "episodes": "12",
@@ -7048,6 +7093,15 @@
     },
     {
         "title": "One Piece Film: Z",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
         "type": "Movie",
         "episodes": "1",
         "watched": "1",
@@ -8433,6 +8487,15 @@
         ]
     },
     {
+        "title": "Senkou",
+        "type": "Music",
+        "episodes": "1",
+        "watched": "1",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Senpai ga Uzai Kouhai no Hanashi",
         "type": "TV",
         "episodes": "12",
@@ -8653,6 +8716,15 @@
         "type": "TV",
         "episodes": "25",
         "watched": "25",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+        "type": "Movie",
+        "episodes": "1",
+        "watched": "1",
         "tags": [
             ""
         ]
@@ -9436,6 +9508,15 @@
         "type": "TV",
         "episodes": "25",
         "watched": "25",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Tate no Yuusha no Nariagari Season 2",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "13",
         "tags": [
             ""
         ]

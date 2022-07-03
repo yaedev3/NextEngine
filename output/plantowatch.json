@@ -67,6 +67,15 @@
         ]
     },
     {
+        "title": "Air",
+        "type": "TV",
+        "episodes": "12",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
         "title": "Ajin Part 2",
         "type": "TV",
         "episodes": "13",
@@ -1354,6 +1363,24 @@
         "title": "Kamisama no Inai Nichiyoubi: Kioku",
         "type": "Special",
         "episodes": "1",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kanon",
+        "type": "TV",
+        "episodes": "13",
+        "watched": "0",
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "title": "Kanon (2006)",
+        "type": "TV",
+        "episodes": "24",
         "watched": "0",
         "tags": [
             ""
@@ -2712,15 +2739,6 @@
         "watched": "0",
         "tags": [
             "Crunchy"
-        ]
-    },
-    {
-        "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
-        "type": "Movie",
-        "episodes": "1",
-        "watched": "0",
-        "tags": [
-            "HBO"
         ]
     },
     {
